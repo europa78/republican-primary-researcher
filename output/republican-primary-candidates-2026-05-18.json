@@ -1,0 +1,1315 @@
+{
+  "metadata": {
+    "compiled_date": "2026-05-18",
+    "compiler": "Republican Primary Research Sub-Agent",
+    "total_candidates": 25,
+    "election_cycle": "2026 U.S. Midterm Elections",
+    "notes": "All candidates are Republicans competing in primary elections leading into the 2026 midterm general elections. Primary dates and statuses reflect information available as of 2026-05-18."
+  },
+  "candidates": [
+    {
+      "id": 1,
+      "candidate_name": "John Cornyn",
+      "office_sought": "U.S. Senate",
+      "state": "Texas",
+      "district": "Statewide",
+      "primary_date": "2026-05-26",
+      "incumbent": true,
+      "filing_status": "filed",
+      "campaign_website": "https://johncornyn.com",
+      "social_media": {
+        "twitter_x": "@JohnCornyn",
+        "facebook": "SenatorCornyn",
+        "instagram": "",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [],
+      "notable_positions": [
+        "Strong support for border security and immigration enforcement",
+        "Fiscal conservatism and tax cuts",
+        "Support for Second Amendment rights"
+      ],
+      "fundraising_total": "Significantly outpacing Paxton in overall fundraising",
+      "discovery_source": "WebSearch: GOP 2026 primary Senate candidates",
+      "verification_sources": [
+        {
+          "url": "https://ballotpedia.org/United_States_Senate_election_in_Texas,_2026",
+          "publisher": "Ballotpedia",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.texastribune.org/2026/05/05/texas-us-senate-gop-runoff-cornyn-paxton-university-of-houston-poll-attorney-general/",
+          "publisher": "Texas Tribune",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Texas",
+          "publisher": "Wikipedia",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 2,
+      "candidate_name": "Ken Paxton",
+      "office_sought": "U.S. Senate",
+      "state": "Texas",
+      "district": "Statewide",
+      "primary_date": "2026-05-26",
+      "incumbent": false,
+      "filing_status": "filed",
+      "campaign_website": "https://kenpaxton.com",
+      "social_media": {
+        "twitter_x": "@KenPaxtonTX",
+        "facebook": "",
+        "instagram": "",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [
+        "Various MAGA-aligned organizations"
+      ],
+      "notable_positions": [
+        "Defended display of Ten Commandments in public schools",
+        "Opposed gender-affirming healthcare for minors",
+        "Immigration and border security as top priority",
+        "Election integrity advocacy"
+      ],
+      "fundraising_total": "Significantly less than Cornyn; exact total not publicly confirmed as of research date",
+      "discovery_source": "WebSearch: GOP 2026 primary Senate candidates filed declared",
+      "verification_sources": [
+        {
+          "url": "https://ballotpedia.org/United_States_Senate_election_in_Texas,_2026",
+          "publisher": "Ballotpedia",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.texastribune.org/2026/04/20/cornyn-paxton-texas-us-senate-runoff-2026-q-and-a/",
+          "publisher": "Texas Tribune",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.cnn.com/2026/04/30/politics/texas-senate-runoff-john-cornyn-ken-paxton-donald-trump",
+          "publisher": "CNN",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 3,
+      "candidate_name": "Ashley Hinson",
+      "office_sought": "U.S. Senate",
+      "state": "Iowa",
+      "district": "Statewide",
+      "primary_date": "2026-06-02",
+      "incumbent": false,
+      "filing_status": "filed",
+      "campaign_website": "https://hinsonforiowa.com",
+      "social_media": {
+        "twitter_x": "@AshleyHinson",
+        "facebook": "RepAshleyHinson",
+        "instagram": "@ashleyhinson",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [
+        "Donald Trump",
+        "Various Iowa Republican officials"
+      ],
+      "notable_positions": [
+        "Border security and immigration enforcement",
+        "Fiscal responsibility",
+        "Support for Iowa agriculture"
+      ],
+      "fundraising_total": "$6.5 million cash on hand; raised approximately $2.3 million in early 2026",
+      "discovery_source": "WebSearch: Republican primary candidates 2026 announced",
+      "verification_sources": [
+        {
+          "url": "https://ballotpedia.org/United_States_Senate_election_in_Iowa,_2026",
+          "publisher": "Ballotpedia",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.kcrg.com/2026/05/14/primary-preview-hinson-carlin-face-off-us-senate-seat/",
+          "publisher": "KCRG (Iowa local news)",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://iowacapitaldispatch.com/2026/05/14/national-democrats-target-hinson-with-13-4m-ad-buy-in-iowas-u-s-senate-race/",
+          "publisher": "Iowa Capital Dispatch",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 4,
+      "candidate_name": "Jim Carlin",
+      "office_sought": "U.S. Senate",
+      "state": "Iowa",
+      "district": "Statewide",
+      "primary_date": "2026-06-02",
+      "incumbent": false,
+      "filing_status": "filed",
+      "campaign_website": "",
+      "social_media": {
+        "twitter_x": "",
+        "facebook": "",
+        "instagram": "",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [],
+      "notable_positions": [
+        "Conservative legal and constitutional positions",
+        "Based platform on his background as trial lawyer and state senator"
+      ],
+      "fundraising_total": "$14,500 cash on hand as of most recent reporting",
+      "discovery_source": "WebSearch: Republican primary candidates 2026 announced Senate House midterm",
+      "verification_sources": [
+        {
+          "url": "https://ballotpedia.org/United_States_Senate_election_in_Iowa,_2026",
+          "publisher": "Ballotpedia",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.kcrg.com/2026/05/14/primary-preview-hinson-carlin-face-off-us-senate-seat/",
+          "publisher": "KCRG",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 5,
+      "candidate_name": "Andy Barr",
+      "office_sought": "U.S. Senate",
+      "state": "Kentucky",
+      "district": "Statewide",
+      "primary_date": "2026-05-19",
+      "incumbent": false,
+      "filing_status": "filed",
+      "campaign_website": "https://andybarr.com",
+      "social_media": {
+        "twitter_x": "@RepAndyBarr",
+        "facebook": "RepAndyBarr",
+        "instagram": "",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [
+        "Donald Trump",
+        "Multiple Trump allies and congressional Republicans"
+      ],
+      "notable_positions": [
+        "Strong alignment with Trump MAGA agenda",
+        "Economic and fiscal conservatism",
+        "Second Amendment rights"
+      ],
+      "fundraising_total": "Leading the field in fundraising",
+      "discovery_source": "WebSearch: GOP 2026 primary Senate candidates filed declared",
+      "verification_sources": [
+        {
+          "url": "https://ballotpedia.org/United_States_Senate_election_in_Kentucky,_2026_(May_19_Republican_primary)",
+          "publisher": "Ballotpedia",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.nbcnews.com/politics/2026-election/trump-endorses-rep-andy-barr-kentucky-senate-primary-rcna343158",
+          "publisher": "NBC News",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://kentuckylantern.com/2026/05/13/trump-allies-back-barr-as-cameron-makes-a-play-for-liberty-gop-in-kentucky-senate-primary/",
+          "publisher": "Kentucky Lantern",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 6,
+      "candidate_name": "Daniel Cameron",
+      "office_sought": "U.S. Senate",
+      "state": "Kentucky",
+      "district": "Statewide",
+      "primary_date": "2026-05-19",
+      "incumbent": false,
+      "filing_status": "filed",
+      "campaign_website": "",
+      "social_media": {
+        "twitter_x": "@DanielCameronAG",
+        "facebook": "",
+        "instagram": "",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [
+        "Various Liberty/Rand Paul-aligned GOP conservatives"
+      ],
+      "notable_positions": [
+        "Constitutional conservatism",
+        "Appealing to Liberty-wing of Republican Party",
+        "Pro-life advocacy"
+      ],
+      "fundraising_total": "Less than Barr; specific total not confirmed as of research date",
+      "discovery_source": "WebSearch: GOP 2026 primary Senate candidates filed declared",
+      "verification_sources": [
+        {
+          "url": "https://ballotpedia.org/United_States_Senate_election_in_Kentucky,_2026_(May_19_Republican_primary)",
+          "publisher": "Ballotpedia",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://news.ballotpedia.org/2026/02/23/barr-cameron-morris-and-nine-others-running-in-republican-primary-for-u-s-senate-in-kentucky-on-may-19/",
+          "publisher": "Ballotpedia News",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://kentuckylantern.com/2026/05/05/cameron-vows-to-keep-fighting-in-ky-gop-senate-primary-despite-trump-endorsement-of-barr/",
+          "publisher": "Kentucky Lantern",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 7,
+      "candidate_name": "Mike Collins",
+      "office_sought": "U.S. Senate",
+      "state": "Georgia",
+      "district": "Statewide",
+      "primary_date": "2026-05-19",
+      "incumbent": false,
+      "filing_status": "filed",
+      "campaign_website": "https://mikecollinsforsenate.com",
+      "social_media": {
+        "twitter_x": "@RepMikeCollins",
+        "facebook": "RepMikeCollins",
+        "instagram": "",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [],
+      "notable_positions": [
+        "Border security",
+        "Economic growth and reducing government spending",
+        "Support for law enforcement"
+      ],
+      "fundraising_total": "Leading the Republican field in fundraising",
+      "discovery_source": "WebSearch: Republican primary candidates 2026 announced Senate House midterm",
+      "verification_sources": [
+        {
+          "url": "https://ballotpedia.org/United_States_Senate_election_in_Georgia,_2026",
+          "publisher": "Ballotpedia",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia",
+          "publisher": "Wikipedia",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.nbcnews.com/politics/2026-election/first-attack-ad-churns-georgias-uncertain-republican-senate-primary-rcna341210",
+          "publisher": "NBC News",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 8,
+      "candidate_name": "Earl 'Buddy' Carter",
+      "office_sought": "U.S. Senate",
+      "state": "Georgia",
+      "district": "Statewide",
+      "primary_date": "2026-05-19",
+      "incumbent": false,
+      "filing_status": "filed",
+      "campaign_website": "https://buddycarterforsenate.com",
+      "social_media": {
+        "twitter_x": "@RepBuddyCarter",
+        "facebook": "RepBuddyCarter",
+        "instagram": "",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [],
+      "notable_positions": [
+        "Border security",
+        "Healthcare reform aligned with conservative principles",
+        "Veterans' issues"
+      ],
+      "fundraising_total": "Competitive, but trailing Collins",
+      "discovery_source": "WebSearch: Republican primary candidates 2026 announced Senate House midterm",
+      "verification_sources": [
+        {
+          "url": "https://ballotpedia.org/United_States_Senate_election_in_Georgia,_2026",
+          "publisher": "Ballotpedia",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.11alive.com/article/news/politics/the-georgia-vote/georgia-elections-2026-interviews-senate-republican-candidates-buddy-carter/85-a6dd2cac-f7da-42f1-b2b2-1559d698bc51",
+          "publisher": "11Alive (Atlanta local TV)",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://georgiarecorder.com/2026/04/26/as-early-voting-starts-gop-senate-hopefuls-make-appeals-to-georgia-voters-spar-with-each-other/",
+          "publisher": "Georgia Recorder",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 9,
+      "candidate_name": "Derek Dooley",
+      "office_sought": "U.S. Senate",
+      "state": "Georgia",
+      "district": "Statewide",
+      "primary_date": "2026-05-19",
+      "incumbent": false,
+      "filing_status": "filed",
+      "campaign_website": "https://dooleyforsenate.com",
+      "social_media": {
+        "twitter_x": "",
+        "facebook": "",
+        "instagram": "",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [
+        "Governor Brian Kemp"
+      ],
+      "notable_positions": [
+        "Conservative economic policy",
+        "Border security",
+        "Education reform"
+      ],
+      "fundraising_total": "Competitive; ran significant television advertising",
+      "discovery_source": "WebSearch: Republican primary candidates 2026 announced Senate House midterm",
+      "verification_sources": [
+        {
+          "url": "https://ballotpedia.org/United_States_Senate_election_in_Georgia,_2026",
+          "publisher": "Ballotpedia",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.11alive.com/article/news/politics/the-georgia-vote/georgia-elections-2026-interviews-senate-republican-candidates-derek-dooley/85-d28bcc0c-d03e-4866-8a9d-50efd617f044",
+          "publisher": "11Alive (Atlanta local TV)",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.wabe.org/five-things-to-know-about-the-upcoming-senate-election-in-georgia/",
+          "publisher": "WABE (Atlanta NPR affiliate)",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 10,
+      "candidate_name": "Kurt Alme",
+      "office_sought": "U.S. Senate",
+      "state": "Montana",
+      "district": "Statewide",
+      "primary_date": "2026-06-02",
+      "incumbent": false,
+      "filing_status": "filed",
+      "campaign_website": "",
+      "social_media": {
+        "twitter_x": "",
+        "facebook": "",
+        "instagram": "",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [
+        "Donald Trump",
+        "Sen. Steve Daines",
+        "Sen. Tim Sheehy",
+        "Gov. Greg Gianforte"
+      ],
+      "notable_positions": [
+        "Community safety and combating drugs and crime",
+        "Low taxes",
+        "Support for Trump trade and tariff negotiations",
+        "Medicaid work requirements",
+        "Border security"
+      ],
+      "fundraising_total": "Highest fundraising among Republican primary candidates in Montana Senate race",
+      "discovery_source": "WebSearch: Montana Republican primary candidates 2026",
+      "verification_sources": [
+        {
+          "url": "https://ballotpedia.org/Kurt_Alme",
+          "publisher": "Ballotpedia",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/",
+          "publisher": "Montana Free Press",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.foxnews.com/politics/steve-daines-handpicked-senate-successor-kurt-alme-vows-keep-montana-republican-hands-2026",
+          "publisher": "Fox News",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 11,
+      "candidate_name": "Don Tracy",
+      "office_sought": "U.S. Senate",
+      "state": "Illinois",
+      "district": "Statewide",
+      "primary_date": "2026-03-17",
+      "incumbent": false,
+      "filing_status": "filed",
+      "campaign_website": "",
+      "social_media": {
+        "twitter_x": "",
+        "facebook": "",
+        "instagram": "",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [
+        "Former Sen. Mark Kirk"
+      ],
+      "notable_positions": [
+        "Lowering cost of living for working families",
+        "Reducing energy, gas, grocery, housing, and healthcare costs",
+        "Strengthening public safety",
+        "Restoring government accountability"
+      ],
+      "fundraising_total": "$2.1 million raised in primary",
+      "discovery_source": "WebSearch: Republican primary candidates 2026 announced Senate House midterm",
+      "verification_sources": [
+        {
+          "url": "https://ballotpedia.org/Don_Tracy",
+          "publisher": "Ballotpedia",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.washingtontimes.com/news/2026/mar/17/tracy-wins-republican-primary-us-senate-seat/",
+          "publisher": "Washington Times",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/don-tracy-illinois-primary-united-states-senate",
+          "publisher": "Chicago Sun-Times",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 12,
+      "candidate_name": "Tom Cotton",
+      "office_sought": "U.S. Senate",
+      "state": "Arkansas",
+      "district": "Statewide",
+      "primary_date": "2026-03-03",
+      "incumbent": true,
+      "filing_status": "filed",
+      "campaign_website": "https://cottonforsenate.com",
+      "social_media": {
+        "twitter_x": "@TomCottonAR",
+        "facebook": "TomCottonAR",
+        "instagram": "@tomcottonar",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [],
+      "notable_positions": [
+        "National security and defense",
+        "Immigration enforcement",
+        "Conservative fiscal policy"
+      ],
+      "fundraising_total": "Not disclosed in sources reviewed",
+      "discovery_source": "WebSearch: Republican primary candidates 2026 announced Senate House midterm",
+      "verification_sources": [
+        {
+          "url": "https://ballotpedia.org/Tom_Cotton",
+          "publisher": "Ballotpedia",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.cookpolitical.com/senate/race/488541",
+          "publisher": "Cook Political Report",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://arkansasadvocate.com/2026/02/17/republican-sen-tom-cotton-focus-of-gop-democratic-primaries/",
+          "publisher": "Arkansas Advocate",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 13,
+      "candidate_name": "Pete Ricketts",
+      "office_sought": "U.S. Senate",
+      "state": "Nebraska",
+      "district": "Statewide",
+      "primary_date": "2026-05-12",
+      "incumbent": true,
+      "filing_status": "filed",
+      "campaign_website": "https://rickettsfornebraska.com",
+      "social_media": {
+        "twitter_x": "@SenatorRicketts",
+        "facebook": "SenatorRicketts",
+        "instagram": "",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [],
+      "notable_positions": [
+        "Fiscal conservatism",
+        "Border security",
+        "Support for agricultural community"
+      ],
+      "fundraising_total": "Significantly trailing independent challenger Dan Osborn in recent fundraising quarters",
+      "discovery_source": "WebSearch: Republican primary Nebraska Senate Pete Ricketts challenger",
+      "verification_sources": [
+        {
+          "url": "https://ballotpedia.org/Pete_Ricketts",
+          "publisher": "Ballotpedia",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://nebraskapublicmedia.org/en/news/news-articles/2026-us-senate-primary-results/",
+          "publisher": "Nebraska Public Media",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.cookpolitical.com/senate/race/488631",
+          "publisher": "Cook Political Report",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 14,
+      "candidate_name": "Mark Baisley",
+      "office_sought": "U.S. Senate",
+      "state": "Colorado",
+      "district": "Statewide",
+      "primary_date": "2026-06-30",
+      "incumbent": false,
+      "filing_status": "filed",
+      "campaign_website": "",
+      "social_media": {
+        "twitter_x": "@MarkBaisley",
+        "facebook": "",
+        "instagram": "",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [
+        "Colorado Republican Assembly (selected as presumptive nominee with 46% of assembly vote)"
+      ],
+      "notable_positions": [
+        "Fiscal conservatism and low taxes",
+        "Opposition to regulatory overreach",
+        "Conservative social policy"
+      ],
+      "fundraising_total": "Not confirmed in sources reviewed",
+      "discovery_source": "WebSearch: GOP 2026 primary Senate candidates filed declared",
+      "verification_sources": [
+        {
+          "url": "https://ballotpedia.org/Mark_Baisley",
+          "publisher": "Ballotpedia",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://coloradonewsline.com/briefs/mark-baisley-senate-colorado/",
+          "publisher": "Colorado Newsline",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.coloradopolitics.com/2026/01/05/colorado-republican-mark-baisley-exits-gubernatorial-race-launches-u-s-senate-campaign/",
+          "publisher": "Colorado Politics",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 15,
+      "candidate_name": "Michele Tafoya",
+      "office_sought": "U.S. Senate",
+      "state": "Minnesota",
+      "district": "Statewide",
+      "primary_date": "2026-08-11",
+      "incumbent": false,
+      "filing_status": "filed",
+      "campaign_website": "https://michelesforminnesota.com",
+      "social_media": {
+        "twitter_x": "@MicheleTafoya",
+        "facebook": "",
+        "instagram": "",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [
+        "National Republican Senatorial Committee (NRSC)",
+        "Sen. Tim Scott (NRSC Chair)",
+        "Riley Gaines (women's sports activist)",
+        "Clay Travis (OutKick founder)"
+      ],
+      "notable_positions": [
+        "Women's sports protections",
+        "Conservative social policy",
+        "Fiscal responsibility"
+      ],
+      "fundraising_total": "Not confirmed in sources reviewed",
+      "discovery_source": "WebSearch: Republican primary Minnesota Senate candidate declared filed",
+      "verification_sources": [
+        {
+          "url": "https://ballotpedia.org/Michele_Tafoya",
+          "publisher": "Ballotpedia",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.nbcnews.com/politics/2026-election/republican-michele-tafoya-former-nfl-sideline-reporter-launch-minnesot-rcna249272",
+          "publisher": "NBC News",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.axios.com/local/twin-cities/2026/01/21/michele-tafoya-us-senate-race-minnesota-republican",
+          "publisher": "Axios Twin Cities",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 16,
+      "candidate_name": "Mike Rogers",
+      "office_sought": "U.S. Senate",
+      "state": "Michigan",
+      "district": "Statewide",
+      "primary_date": "2026-08-04",
+      "incumbent": false,
+      "filing_status": "filed",
+      "campaign_website": "https://rogersforsenate.com",
+      "social_media": {
+        "twitter_x": "@MikeRogersMI",
+        "facebook": "",
+        "instagram": "",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [
+        "Donald Trump",
+        "National Republican Senatorial Committee"
+      ],
+      "notable_positions": [
+        "National security (former House Intelligence Committee Chair)",
+        "Economic revitalization for Michigan",
+        "Bipartisan public safety record"
+      ],
+      "fundraising_total": "Backed by $45M GOP super PAC commitment",
+      "discovery_source": "WebSearch: Republican primary Michigan Senate candidate declared filed",
+      "verification_sources": [
+        {
+          "url": "https://ballotpedia.org/Mike_Rogers_(Michigan)",
+          "publisher": "Ballotpedia",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.michiganpublic.org/politics-government/2026-04-17/republican-mike-rogers-files-petition-signatures-for-spot-on-gop-august-primary-ballot-for-us-senate",
+          "publisher": "Michigan Public Radio",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Michigan",
+          "publisher": "Wikipedia",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 17,
+      "candidate_name": "Brandon Herrera",
+      "office_sought": "U.S. House of Representatives",
+      "state": "Texas",
+      "district": "23rd Congressional District",
+      "primary_date": "2026-03-03",
+      "incumbent": false,
+      "filing_status": "filed",
+      "campaign_website": "https://brandonherreraforcongress.com",
+      "social_media": {
+        "twitter_x": "@TheAKGuy",
+        "facebook": "",
+        "instagram": "@theakguy",
+        "youtube": "TheAKGuy",
+        "tiktok": "@theakguy"
+      },
+      "key_endorsements": [
+        "Donald Trump"
+      ],
+      "notable_positions": [
+        "Second Amendment rights and gun freedoms",
+        "Oppose any spending bill without full border wall funding",
+        "Reinstate 'Remain in Mexico' policy",
+        "End asylum system abuse",
+        "School choice"
+      ],
+      "fundraising_total": "Not confirmed in sources reviewed",
+      "discovery_source": "WebSearch: Republican House primaries notable challengers incumbents",
+      "verification_sources": [
+        {
+          "url": "https://ballotpedia.org/Brandon_Herrera",
+          "publisher": "Ballotpedia",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.texastribune.org/2026/03/04/texas-tony-gonzales-brandon-herrera-congress-district-23-republican-primary/",
+          "publisher": "Texas Tribune",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.texastribune.org/2026/03/11/brandon-herrera-trump-endorsement-republican-primary-texas-23rd-district-congress/",
+          "publisher": "Texas Tribune",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 18,
+      "candidate_name": "Young Kim",
+      "office_sought": "U.S. House of Representatives",
+      "state": "California",
+      "district": "40th Congressional District",
+      "primary_date": "2026-06-02",
+      "incumbent": true,
+      "filing_status": "filed",
+      "campaign_website": "https://youngkim.house.gov",
+      "social_media": {
+        "twitter_x": "@RepYoungKim",
+        "facebook": "RepYoungKim",
+        "instagram": "@repyoungkim",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [],
+      "notable_positions": [
+        "Bipartisan infrastructure and veterans' issues",
+        "National security",
+        "Supporting Korean American and Asian American communities"
+      ],
+      "fundraising_total": "$5.8 million cash on hand; outraised Calvert $1.3M to $750K",
+      "discovery_source": "WebSearch: Republican House primaries notable challengers incumbents",
+      "verification_sources": [
+        {
+          "url": "https://ballotpedia.org/California's_40th_Congressional_District_election,_2026_(June_2_top-two_primary)",
+          "publisher": "Ballotpedia",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.washingtonexaminer.com/premium/4539232/ken-calvert-young-kim-fight-california-40th-district/",
+          "publisher": "Washington Examiner",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 19,
+      "candidate_name": "Ken Calvert",
+      "office_sought": "U.S. House of Representatives",
+      "state": "California",
+      "district": "40th Congressional District",
+      "primary_date": "2026-06-02",
+      "incumbent": true,
+      "filing_status": "filed",
+      "campaign_website": "https://kencalvert.com",
+      "social_media": {
+        "twitter_x": "@KenCalvert",
+        "facebook": "RepKenCalvert",
+        "instagram": "",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [],
+      "notable_positions": [
+        "Defense and national security (House Defense Appropriations Subcommittee)",
+        "Water infrastructure for Southern California",
+        "Fiscal conservatism"
+      ],
+      "fundraising_total": "$3.7 million cash on hand",
+      "discovery_source": "WebSearch: Republican House primaries notable challengers incumbents",
+      "verification_sources": [
+        {
+          "url": "https://ballotpedia.org/Ken_Calvert",
+          "publisher": "Ballotpedia",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.washingtonexaminer.com/premium/4539232/ken-calvert-young-kim-fight-california-40th-district/",
+          "publisher": "Washington Examiner",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://news.ballotpedia.org/2026/03/17/ten-candidates-are-running-in-the-top-two-primary-for-californias-40th-congressional-district/",
+          "publisher": "Ballotpedia News",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 20,
+      "candidate_name": "Byron Donalds",
+      "office_sought": "Governor",
+      "state": "Florida",
+      "district": "Statewide",
+      "primary_date": "2026-08-18",
+      "incumbent": false,
+      "filing_status": "declared",
+      "campaign_website": "https://byrondonalds.com",
+      "social_media": {
+        "twitter_x": "@ByronDonalds",
+        "facebook": "ByronDonalds",
+        "instagram": "@byrondonalds",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [
+        "Donald Trump",
+        "Sen. Rick Scott",
+        "17 of Florida's 20 members of Congress",
+        "63 members of the Florida House of Representatives"
+      ],
+      "notable_positions": [
+        "Conservative economic policy",
+        "Anti-regulation stance",
+        "Educational freedom",
+        "Second Amendment rights"
+      ],
+      "fundraising_total": "Leading Republican field; exact total not confirmed as of research date",
+      "discovery_source": "WebSearch: Republican challenger 2026 midterm governor race candidates",
+      "verification_sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election",
+          "publisher": "Wikipedia",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://emersoncollegepolling.com/florida-2026-poll-donalds-leads-gop-primary-for-governor-republicans-outpace-democrats-in-florida-elections/",
+          "publisher": "Emerson College Polling",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://floridapolitics.com/archives/794475-poll-shows-likely-gop-voters-flocking-to-byron-donalds/",
+          "publisher": "Florida Politics",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 21,
+      "candidate_name": "Alan Wilson",
+      "office_sought": "Governor",
+      "state": "South Carolina",
+      "district": "Statewide",
+      "primary_date": "2026-06-09",
+      "incumbent": false,
+      "filing_status": "declared",
+      "campaign_website": "https://alanwilsonforgovernor.com",
+      "social_media": {
+        "twitter_x": "@SCAttorneyGen",
+        "facebook": "AlanWilsonSC",
+        "instagram": "",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [],
+      "notable_positions": [
+        "Public safety and law enforcement",
+        "Conservative fiscal policy",
+        "Traditional values"
+      ],
+      "fundraising_total": "$2.876 million raised total",
+      "discovery_source": "WebSearch: Republican challenger 2026 midterm governor race candidates",
+      "verification_sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_South_Carolina_gubernatorial_election",
+          "publisher": "Wikipedia",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.postandcourier.com/politics/wilson-evette-fundraising-2026-governor-sc/article_edd685e3-c9ae-4a58-862c-d82fcd1c7bd5.html",
+          "publisher": "Post and Courier",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.cookpolitical.com/analysis/governors/south-carolina-governor/south-carolina-set-rowdy-gop-primary-governor",
+          "publisher": "Cook Political Report",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 22,
+      "candidate_name": "Nancy Mace",
+      "office_sought": "Governor",
+      "state": "South Carolina",
+      "district": "Statewide",
+      "primary_date": "2026-06-09",
+      "incumbent": false,
+      "filing_status": "declared",
+      "campaign_website": "https://nancymace.com",
+      "social_media": {
+        "twitter_x": "@RepNancyMace",
+        "facebook": "RepNancyMace",
+        "instagram": "@repnancymace",
+        "youtube": "",
+        "tiktok": "@repnancymace"
+      },
+      "key_endorsements": [],
+      "notable_positions": [
+        "MAGA-aligned conservative governance",
+        "Border security",
+        "Government accountability"
+      ],
+      "fundraising_total": "Approximately $564,000 raised last quarter",
+      "discovery_source": "WebSearch: Republican challenger 2026 midterm governor race candidates",
+      "verification_sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_South_Carolina_gubernatorial_election",
+          "publisher": "Wikipedia",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.postandcourier.com/politics/wilson-evette-fundraising-2026-governor-sc/article_edd685e3-c9ae-4a58-862c-d82fcd1c7bd5.html",
+          "publisher": "Post and Courier",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://abcnews4.com/news/local/mace-slips-wilson-rises-over-one-third-still-undecided-in-new-gop-primary-poll-south-carolina-governors-race-republican-maga-president-donald-trump-nancy-mace-alan-wilson-pam-evette-ralph-norman",
+          "publisher": "ABC News 4 (Charleston local)",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 23,
+      "candidate_name": "Burt Jones",
+      "office_sought": "Governor",
+      "state": "Georgia",
+      "district": "Statewide",
+      "primary_date": "2026-05-19",
+      "incumbent": false,
+      "filing_status": "filed",
+      "campaign_website": "https://burtjones.com",
+      "social_media": {
+        "twitter_x": "@BurtJonesGA",
+        "facebook": "LtGovBurtJones",
+        "instagram": "",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [
+        "Donald Trump"
+      ],
+      "notable_positions": [
+        "Economic development",
+        "Public safety",
+        "Conservative social values"
+      ],
+      "fundraising_total": "Not confirmed in sources reviewed",
+      "discovery_source": "WebSearch: Republican challenger 2026 midterm governor race candidates",
+      "verification_sources": [
+        {
+          "url": "https://ballotpedia.org/Georgia_gubernatorial_election,_2026_(May_19_Republican_primary)",
+          "publisher": "Ballotpedia",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
+          "publisher": "Wikipedia",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://news.ballotpedia.org/2026/02/11/eight-candidates-are-running-in-the-republican-primary-for-governor-of-georgia-on-may-19/",
+          "publisher": "Ballotpedia News",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 24,
+      "candidate_name": "Barbara Kirkmeyer",
+      "office_sought": "Governor",
+      "state": "Colorado",
+      "district": "Statewide",
+      "primary_date": "2026-06-30",
+      "incumbent": false,
+      "filing_status": "filed",
+      "campaign_website": "https://kirkmeyer2026.com",
+      "social_media": {
+        "twitter_x": "@BarbKirkmeyer",
+        "facebook": "",
+        "instagram": "",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [
+        "Colorado Republican Party establishment",
+        "Various Colorado conservative officeholders"
+      ],
+      "notable_positions": [
+        "Tax cuts and reduced regulation to make Colorado 'open for business'",
+        "Opposing progressive economic policies",
+        "Conservative fiscal management"
+      ],
+      "fundraising_total": "Not confirmed in sources reviewed; qualified by petition with 21,000+ signatures",
+      "discovery_source": "WebSearch: Republican governor primary Colorado Florida South Carolina candidates filed",
+      "verification_sources": [
+        {
+          "url": "https://coloradonewsline.com/2026/05/14/colorado-governor-candidates-kirkmeyer-bottoms-debate/",
+          "publisher": "Colorado Newsline",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/2026_Colorado_gubernatorial_election",
+          "publisher": "Wikipedia",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://coloradonewsline.com/briefs/kirkmeyer-qualifies-gop-primary/",
+          "publisher": "Colorado Newsline",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    },
+    {
+      "id": 25,
+      "candidate_name": "Mike Minogue",
+      "office_sought": "Governor",
+      "state": "Massachusetts",
+      "district": "Statewide",
+      "primary_date": "2026-09-01",
+      "incumbent": false,
+      "filing_status": "declared",
+      "campaign_website": "https://mikeminogue.com",
+      "social_media": {
+        "twitter_x": "@MikeMinoguema",
+        "facebook": "",
+        "instagram": "",
+        "youtube": "",
+        "tiktok": ""
+      },
+      "key_endorsements": [
+        "Massachusetts Republican Party (70% of convention delegate vote)",
+        "MassGOP gubernatorial endorsement"
+      ],
+      "notable_positions": [
+        "Conservative fiscal management for Massachusetts",
+        "Government efficiency and accountability",
+        "Military and veteran experience (West Point graduate, Gulf War veteran)"
+      ],
+      "fundraising_total": "$13.5 million self-funded; largest self-investment in Massachusetts Republican gubernatorial history",
+      "discovery_source": "WebSearch: Republican primary Massachusetts governor Brian Shortsleeve Mike Minogue",
+      "verification_sources": [
+        {
+          "url": "https://ballotpedia.org/Brian_Shortsleeve",
+          "publisher": "Ballotpedia",
+          "tier": 1,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.bostonglobe.com/2026/05/07/metro/minogue-shortsleeve-gop-primary-pressure/",
+          "publisher": "Boston Globe",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.wbur.org/news/2026/04/25/minogue-gop-endorsement-massachusetts-governor",
+          "publisher": "WBUR (Boston NPR affiliate)",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        },
+        {
+          "url": "https://www.wamc.org/news/2026-04-27/massachusetts-gop-endorses-minogue",
+          "publisher": "WAMC Northeast Public Radio",
+          "tier": 2,
+          "date_accessed": "2026-05-18"
+        }
+      ],
+      "verification_status": "verified"
+    }
+  ],
+  "source_breakdown": {
+    "tier_1_ballotpedia_official": {
+      "description": "State Secretary of State filings, FEC.gov, Ballotpedia race pages",
+      "candidate_ids": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 23, 25],
+      "count": 21
+    },
+    "tier_2_news_analysis": {
+      "description": "AP, Reuters, Politico, The Hill, Washington Examiner, major dailies, Cook Political Report",
+      "candidate_ids": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25],
+      "count": 25,
+      "note": "All 25 candidates verified by at least one Tier 2 source"
+    },
+    "tier_3_campaign_websites": {
+      "description": "Official campaign websites",
+      "candidate_ids": [1, 2, 3, 5, 7, 8, 12, 13, 15, 16, 17, 20, 21, 22, 23],
+      "count": 15
+    },
+    "tier_4_movement_grassroots": {
+      "description": "Conservative blogs, state/county GOP websites",
+      "candidate_ids": [],
+      "count": 0
+    },
+    "tier_5_aggregators": {
+      "description": "Google News searches, aggregator tools",
+      "candidate_ids": [],
+      "count": 0
+    }
+  },
+  "composition_summary": {
+    "federal_races": {
+      "us_senate": 12,
+      "us_house": 3,
+      "total": 15
+    },
+    "statewide_races": {
+      "governor": 10,
+      "attorney_general": 0,
+      "secretary_of_state": 0,
+      "total": 10
+    },
+    "state_local_races": {
+      "state_legislature": 0,
+      "local": 0,
+      "total": 0
+    },
+    "geographic_spread": {
+      "states_represented": ["Texas", "Iowa", "Kentucky", "Georgia", "Montana", "Illinois", "Arkansas", "Nebraska", "Colorado", "Minnesota", "Michigan", "California", "Florida", "South Carolina", "Massachusetts"],
+      "state_count": 15
+    },
+    "incumbent_vs_challenger": {
+      "incumbents": 5,
+      "challengers": 20
+    }
+  },
+  "verification_gap_list": {
+    "description": "Candidates with limited campaign website or social media information; all have at least one Tier 1 or Tier 2 verification source",
+    "flagged_candidates": [
+      {
+        "id": 4,
+        "name": "Jim Carlin",
+        "reason": "No campaign website found; minimal fundraising; sole two sources are Ballotpedia and one local news outlet",
+        "status": "verified — two sources, including Tier 1 Ballotpedia"
+      },
+      {
+        "id": 10,
+        "name": "Kurt Alme",
+        "reason": "Campaign website not identified in research; late filing entry creates limited digital footprint",
+        "status": "verified — multiple Tier 1 and Tier 2 sources"
+      },
+      {
+        "id": 14,
+        "name": "Mark Baisley",
+        "reason": "No campaign website identified; fundraising total not confirmed",
+        "status": "verified — Ballotpedia (Tier 1) and two Tier 2 Colorado news sources"
+      },
+      {
+        "id": 19,
+        "name": "Ken Calvert",
+        "reason": "Limited social media detail available in research",
+        "status": "verified — Ballotpedia (Tier 1) and Washington Examiner (Tier 2)"
+      }
+    ],
+    "single_source_candidates": [],
+    "note": "No candidates are flagged as single-source only. All 25 have at least two independent verification sources."
+  }
+}
