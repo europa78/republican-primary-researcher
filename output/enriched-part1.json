@@ -1,0 +1,1289 @@
+[
+  {
+    "candidate_name": "John Cornyn",
+    "office_sought": "U.S. Senate",
+    "state": "Texas",
+    "district": "Statewide",
+    "primary_date": "2026-05-26",
+    "incumbent": true,
+    "filing_status": "filed",
+    "biography": {
+      "age": "74",
+      "occupation_before_politics": "Attorney / Judge (Texas District Court, Texas Supreme Court, Texas Attorney General)",
+      "military_service": "no",
+      "military_branch_and_rank": "",
+      "education": "B.A. Trinity University (1973); J.D. St. Mary's University School of Law (1977); LL.M. University of Virginia School of Law (1995)",
+      "prior_elected_offices": [
+        "Texas District Court Judge",
+        "Texas Supreme Court Justice",
+        "Texas Attorney General (1999–2002)",
+        "U.S. Senator from Texas (2002–present)"
+      ],
+      "notable_career_highlights": "Senate Majority Whip; 4-term incumbent seeking 5th term; led Senate Republican Policy Committee; key figure on Judiciary Committee"
+    },
+    "campaign": {
+      "campaign_website": "https://www.johncornyn.com",
+      "campaign_slogan": "Battle-Tested Partner for Texas",
+      "top_3_policy_priorities": [
+        "Border security and immigration enforcement",
+        "Fiscal responsibility and cutting government spending",
+        "National defense and military readiness"
+      ],
+      "campaign_announcement_date": "2025-05-07",
+      "campaign_announcement_source": "https://www.texastribune.org/2025/05/07/texas-john-cornyn-senate-2026-campaign-leadership-ken-paxton-trump/"
+    },
+    "endorsements": {
+      "trump_endorsement": "no",
+      "trump_endorsement_date": "",
+      "nrsc_endorsed": "yes",
+      "nrcc_endorsed": "unknown",
+      "governor_endorsed": "unknown",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": [
+        "Senate Majority Leader John Thune",
+        "National Border Patrol Council"
+      ],
+      "pac_support": [
+        "Texans for a Conservative Majority (~$2.9M cash on hand)"
+      ]
+    },
+    "financials": {
+      "total_raised_this_cycle": "~$11.2M (as of Feb 2026); ~$9M raised Q1 2026 across accounts",
+      "cash_on_hand": "~$8.2M (Q1 2026)",
+      "burn_rate": "not found",
+      "top_donor_type": "mixed",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "https://www.fec.gov/data/candidate/S2TX00116/"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-04-01",
+        "pollster": "Houston Public Media / various",
+        "result": "Paxton leads Cornyn by 8 points among likely GOP runoff voters",
+        "source_url": "https://www.keranews.org/elections-2026/2026-04-17/paxton-cornyn-poll-republican-primary-runoff-texas-senate-race"
+      },
+      {
+        "poll_date": "2026-05-19",
+        "pollster": "Kalshi prediction market",
+        "result": "Paxton 64% implied probability; Cornyn 38%",
+        "source_url": "https://www.covers.com/politics/texas-senate-odds"
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "1 (runoff vs. Ken Paxton)",
+      "seat_status": "incumbent-held",
+      "cook_political_report_rating": "Likely Republican (general election); moved from Solid R due to primary dynamics",
+      "previous_election_margin": "Won 2020 general by 9.8 points over MJ Hegar",
+      "runoff_required": "yes",
+      "runoff_date": "2026-05-26"
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "@JohnCornyn",
+      "twitter_x_followers": "not found",
+      "facebook_url": "https://www.facebook.com/johncornyn/",
+      "facebook_followers": "not found",
+      "instagram_handle": "not found",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "Negative contrast ads vs. Paxton (corruption, legal issues)"
+    },
+    "verification": {
+      "discovery_source": "Ballotpedia, Texas Tribune, NBC News, Cook Political Report, FEC",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://ballotpedia.org/John_Cornyn", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.texastribune.org/2026/04/15/john-cornyn-ken-paxton-runoff-first-quarter-fundraising/", "publisher": "Texas Tribune", "tier": "tier-1", "date_accessed": "2026-05-18"},
+        {"url": "https://www.nbcnews.com/politics/2026-election/trump-endorses-ken-paxton-sen-john-cornyn-ahead-texas-republican-senat-rcna345898", "publisher": "NBC News", "tier": "tier-1", "date_accessed": "2026-05-18"},
+        {"url": "https://en.wikipedia.org/wiki/John_Cornyn", "publisher": "Wikipedia", "tier": "tier-3", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["twitter_x_followers", "facebook_followers", "instagram_handle", "youtube_channel", "tiktok_handle", "burn_rate", "self_funded_amount", "nra_pvf_rating", "sba_pro_life", "club_for_growth", "heritage_action"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Ken Paxton",
+    "office_sought": "U.S. Senate",
+    "state": "Texas",
+    "district": "Statewide",
+    "primary_date": "2026-05-26",
+    "incumbent": false,
+    "filing_status": "filed",
+    "biography": {
+      "age": "63",
+      "occupation_before_politics": "Attorney / Texas Attorney General (2015–2025)",
+      "military_service": "no",
+      "military_branch_and_rank": "",
+      "education": "B.A. Psychology Baylor University (1985); M.B.A. Baylor University (1986); J.D. University of Virginia School of Law (1991)",
+      "prior_elected_offices": [
+        "Texas House of Representatives",
+        "Texas Senate (District 8)",
+        "Texas Attorney General (2015–2025)"
+      ],
+      "notable_career_highlights": "Led 100+ lawsuits against Biden administration; acquitted by Texas Senate after impeachment (2023); born on Minot Air Force Base"
+    },
+    "campaign": {
+      "campaign_website": "https://www.kenpaxton.com",
+      "campaign_slogan": "Texas Tough — Fighting for Texas Values",
+      "top_3_policy_priorities": [
+        "Border security — completing the border wall and mass deportations",
+        "Cutting taxes and reducing federal debt/spending",
+        "Ending weaponization of government and draining the swamp"
+      ],
+      "campaign_announcement_date": "2025-04-01",
+      "campaign_announcement_source": "https://www.cbsnews.com/texas/news/ken-paxton-enters-us-senate-race/"
+    },
+    "endorsements": {
+      "trump_endorsement": "yes",
+      "trump_endorsement_date": "2026-05-19",
+      "nrsc_endorsed": "no",
+      "nrcc_endorsed": "unknown",
+      "governor_endorsed": "unknown",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": [
+        "President Donald Trump (May 19, 2026)"
+      ],
+      "pac_support": [
+        "Lone Star Liberty PAC (~$1M cash on hand)"
+      ]
+    },
+    "financials": {
+      "total_raised_this_cycle": "~$5.9M (as of Feb 2026); $2.2M Q1 2026 (campaign + joint committee)",
+      "cash_on_hand": "not found",
+      "burn_rate": "not found",
+      "top_donor_type": "mixed",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "https://www.fec.gov/data/committee/C00901918/"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-04-17",
+        "pollster": "University of Houston / Houston Public Media",
+        "result": "Paxton leads Cornyn by 8 points among likely GOP runoff voters",
+        "source_url": "https://www.keranews.org/elections-2026/2026-04-17/paxton-cornyn-poll-republican-primary-runoff-texas-senate-race"
+      },
+      {
+        "poll_date": "2026-05-19",
+        "pollster": "Kalshi prediction market",
+        "result": "Paxton 64% implied probability to win runoff",
+        "source_url": "https://www.covers.com/politics/texas-senate-odds"
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "1 (runoff vs. John Cornyn)",
+      "seat_status": "incumbent-held",
+      "cook_political_report_rating": "Likely Republican; would shift to Lean Republican if Paxton wins nomination",
+      "previous_election_margin": "N/A — challenger",
+      "runoff_required": "yes",
+      "runoff_date": "2026-05-26"
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "@KenPaxtonTX",
+      "twitter_x_followers": "not found",
+      "facebook_url": "not found",
+      "facebook_followers": "not found",
+      "instagram_handle": "not found",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "Negative contrast ads vs. Cornyn; border wall and MAGA agenda"
+    },
+    "verification": {
+      "discovery_source": "Ballotpedia, Texas Tribune, NBC News, Axios, FEC",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://ballotpedia.org/Ken_Paxton", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.axios.com/2026/05/19/trump-endorsement-texas-senate-race-ken-paxton", "publisher": "Axios", "tier": "tier-1", "date_accessed": "2026-05-18"},
+        {"url": "https://en.wikipedia.org/wiki/Ken_Paxton", "publisher": "Wikipedia", "tier": "tier-3", "date_accessed": "2026-05-18"},
+        {"url": "https://www.fec.gov/data/committee/C00901918/", "publisher": "FEC", "tier": "tier-1", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["cash_on_hand", "burn_rate", "self_funded_amount", "twitter_x_followers", "facebook_url", "instagram_handle", "youtube_channel", "tiktok_handle", "nra_pvf_rating", "sba_pro_life", "club_for_growth", "heritage_action"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Ashley Hinson",
+    "office_sought": "U.S. Senate",
+    "state": "Iowa",
+    "district": "Statewide",
+    "primary_date": "2026-06-02",
+    "incumbent": false,
+    "filing_status": "filed",
+    "biography": {
+      "age": "42",
+      "occupation_before_politics": "Broadcast journalist / TV news anchor (KCRG-TV, Cedar Rapids)",
+      "military_service": "no",
+      "military_branch_and_rank": "",
+      "education": "B.S. Broadcast Journalism, University of Southern California",
+      "prior_elected_offices": [
+        "Iowa State House of Representatives, District 67 (2017–2021)",
+        "U.S. Representative, Iowa 1st District (2021–2023)",
+        "U.S. Representative, Iowa 2nd District (2023–present)"
+      ],
+      "notable_career_highlights": "Two-time Midwest Regional Emmy Award winner; first woman to represent Iowa's 67th state district; member of House Appropriations Committee"
+    },
+    "campaign": {
+      "campaign_website": "not found",
+      "campaign_slogan": "Trump's Top Ally in the United States Senate",
+      "top_3_policy_priorities": [
+        "Border security and immigration enforcement",
+        "Tax cuts and America First economic agenda",
+        "Veterans care and banning stock trading by Congress members"
+      ],
+      "campaign_announcement_date": "2025-09-02",
+      "campaign_announcement_source": "https://iowacapitaldispatch.com/2025/09/02/u-s-rep-ashley-hinson-launches-senate-bid-following-ernsts-announcement/"
+    },
+    "endorsements": {
+      "trump_endorsement": "yes",
+      "trump_endorsement_date": "2025-09-01",
+      "nrsc_endorsed": "yes",
+      "nrcc_endorsed": "unknown",
+      "governor_endorsed": "unknown",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": [
+        "Senate Majority Leader John Thune",
+        "NRSC Chair Tim Scott"
+      ],
+      "pac_support": []
+    },
+    "financials": {
+      "total_raised_this_cycle": "~$2.3M raised Q1 2026; over $7M total cycle",
+      "cash_on_hand": "$6.5M (Q1 2026)",
+      "burn_rate": "not found",
+      "top_donor_type": "mixed",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "https://www.fec.gov/data/elections/senate/IA/2026/"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-01-01",
+        "pollster": "Cook Political Report / general forecasters",
+        "result": "Race rated Likely Republican; Hinson heavily favored in primary",
+        "source_url": "https://iowacapitaldispatch.com/2025/09/02/u-s-rep-ashley-hinson-launches-senate-bid-following-ernsts-announcement/"
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "1+ (Jim Carlin primary challenger)",
+      "seat_status": "open",
+      "cook_political_report_rating": "Likely Republican",
+      "previous_election_margin": "N/A — open seat (Joni Ernst retiring)",
+      "runoff_required": "no",
+      "runoff_date": ""
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "@hinsonashley",
+      "twitter_x_followers": "not found",
+      "facebook_url": "not found",
+      "facebook_followers": "not found",
+      "instagram_handle": "not found",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "Veterans care, healthcare, and ban on congressional stock trading"
+    },
+    "verification": {
+      "discovery_source": "Ballotpedia, Iowa Capital Dispatch, The Gazette, NBC News",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://ballotpedia.org/Ashley_Hinson", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://iowacapitaldispatch.com/2026/04/17/democrats-outraise-gop-incumbents-in-2-house-races-hinson-leads-in-senate-funds/", "publisher": "Iowa Capital Dispatch", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://en.wikipedia.org/wiki/Ashley_Hinson", "publisher": "Wikipedia", "tier": "tier-3", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["campaign_website", "burn_rate", "self_funded_amount", "twitter_x_followers", "facebook_url", "instagram_handle", "youtube_channel", "tiktok_handle", "nra_pvf_rating", "sba_pro_life", "club_for_growth", "heritage_action", "trump_endorsement_date"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Jim Carlin",
+    "office_sought": "U.S. Senate",
+    "state": "Iowa",
+    "district": "Statewide",
+    "primary_date": "2026-06-02",
+    "incumbent": false,
+    "filing_status": "filed",
+    "biography": {
+      "age": "63",
+      "occupation_before_politics": "Attorney (personal injury / malpractice litigator; founder, Carlin Law Office, Sioux City)",
+      "military_service": "yes",
+      "military_branch_and_rank": "U.S. Army, 1983–1985 (rank not found)",
+      "education": "B.A. Economics, University of Massachusetts Amherst; J.D. Marquette University Law School",
+      "prior_elected_offices": [
+        "Iowa State Senate, District 3 (2017–2023)"
+      ],
+      "notable_career_highlights": "Conservative activist in Iowa state legislature; 2021 Iowa Senate run for U.S. Senate seat; known for culture and constitutional issue advocacy"
+    },
+    "campaign": {
+      "campaign_website": "https://www.carlinforussenate.com",
+      "campaign_slogan": "Iowa Conservative Leadership",
+      "top_3_policy_priorities": [
+        "Constitutional conservatism",
+        "Border security and immigration",
+        "Fiscal restraint and small government"
+      ],
+      "campaign_announcement_date": "2025-01-01",
+      "campaign_announcement_source": "https://ballotpedia.org/Jim_Carlin"
+    },
+    "endorsements": {
+      "trump_endorsement": "no",
+      "trump_endorsement_date": "",
+      "nrsc_endorsed": "no",
+      "nrcc_endorsed": "unknown",
+      "governor_endorsed": "no",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": [
+        "Iowa State Senators Kevin Alons, Doug Campbell, Sandy Salmon",
+        "Iowa State Representatives Mark Cisneros, Samantha Fett"
+      ],
+      "pac_support": []
+    },
+    "financials": {
+      "total_raised_this_cycle": "~$247K (through Dec 2025); ~$46.8K Q1 2026",
+      "cash_on_hand": "not found",
+      "burn_rate": "not found",
+      "top_donor_type": "small dollar",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "https://www.fec.gov/data/candidate/S6IA00249/"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-01-01",
+        "pollster": "not found",
+        "result": "Hinson heavily favored; Carlin minimal polling",
+        "source_url": ""
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "1 major (Ashley Hinson)",
+      "seat_status": "open",
+      "cook_political_report_rating": "Likely Republican (general election)",
+      "previous_election_margin": "N/A — open seat",
+      "runoff_required": "no",
+      "runoff_date": ""
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "not found",
+      "twitter_x_followers": "not found",
+      "facebook_url": "not found",
+      "facebook_followers": "not found",
+      "instagram_handle": "not found",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "not found"
+    },
+    "verification": {
+      "discovery_source": "Ballotpedia, FEC, Iowa Capital Dispatch, Wikipedia",
+      "verification_status": "single-source",
+      "verification_sources": [
+        {"url": "https://ballotpedia.org/Jim_Carlin", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.fec.gov/data/candidate/S6IA00249/", "publisher": "FEC", "tier": "tier-1", "date_accessed": "2026-05-18"},
+        {"url": "https://en.wikipedia.org/wiki/Jim_Carlin_(politician)", "publisher": "Wikipedia", "tier": "tier-3", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["cash_on_hand", "burn_rate", "self_funded_amount", "twitter_x_handle", "twitter_x_followers", "facebook_url", "instagram_handle", "youtube_channel", "tiktok_handle", "nra_pvf_rating", "sba_pro_life", "club_for_growth", "heritage_action", "military_branch_and_rank", "campaign_announcement_date", "most_recent_ad_topic"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Andy Barr",
+    "office_sought": "U.S. Senate",
+    "state": "Kentucky",
+    "district": "Statewide",
+    "primary_date": "2026-05-19",
+    "incumbent": false,
+    "filing_status": "filed",
+    "biography": {
+      "age": "52",
+      "occupation_before_politics": "Attorney",
+      "military_service": "no",
+      "military_branch_and_rank": "",
+      "education": "B.A. Government and Philosophy (Phi Beta Kappa), University of Virginia (1996); J.D. University of Kentucky (2001)",
+      "prior_elected_offices": [
+        "U.S. Representative, Kentucky 6th District (2013–present)"
+      ],
+      "notable_career_highlights": "Chair, House Financial Services Subcommittee on Financial Institutions and Monetary Policy; senior member House Foreign Affairs Committee; served on House Veterans Affairs Committee"
+    },
+    "campaign": {
+      "campaign_website": "https://barrforsenate.com",
+      "campaign_slogan": "Kentucky Tough. 100% America First.",
+      "top_3_policy_priorities": [
+        "Cutting taxes and slashing wasteful government spending",
+        "Deportation of illegal aliens and border security",
+        "Eliminating DEI and firing deep-state bureaucrats"
+      ],
+      "campaign_announcement_date": "2025-04-22",
+      "campaign_announcement_source": "https://spectrumnews1.com/ky/louisville/politics/2025/04/22/barr-bid-for-senate"
+    },
+    "endorsements": {
+      "trump_endorsement": "yes",
+      "trump_endorsement_date": "2026-05-01",
+      "nrsc_endorsed": "yes",
+      "nrcc_endorsed": "unknown",
+      "governor_endorsed": "unknown",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": [
+        "Senate Majority Leader John Thune",
+        "NRSC Chair Tim Scott",
+        "Joe and Kelly Craft (Republican megadonors)"
+      ],
+      "pac_support": []
+    },
+    "financials": {
+      "total_raised_this_cycle": "not found (part of $48M total GOP primary spend)",
+      "cash_on_hand": "not found",
+      "burn_rate": "not found",
+      "top_donor_type": "mixed",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "https://www.fec.gov/data/candidate/H2KY06073/"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-03-31",
+        "pollster": "Emerson College / FOX56 Kentucky",
+        "result": "Barr 28%, Morris 15%; Cameron ~27%",
+        "source_url": "https://www.newsweek.com/trump-endorses-andy-barr-for-kentucky-senate-what-polls-say-11905616"
+      },
+      {
+        "poll_date": "2026-02-01",
+        "pollster": "Emerson College",
+        "result": "Barr 24%, Cameron 21%, Morris 14%",
+        "source_url": "https://www.newsweek.com/trump-endorses-andy-barr-for-kentucky-senate-what-polls-say-11905616"
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "Multiple; main rival Daniel Cameron after Nate Morris withdrew",
+      "seat_status": "open",
+      "cook_political_report_rating": "Solid Republican (general election)",
+      "previous_election_margin": "N/A — open seat (McConnell retiring)",
+      "runoff_required": "no",
+      "runoff_date": ""
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "@RepAndyBarr",
+      "twitter_x_followers": "not found",
+      "facebook_url": "https://www.facebook.com/BarrForSenate/",
+      "facebook_followers": "not found",
+      "instagram_handle": "not found",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "America First agenda, Trump endorsement, border security"
+    },
+    "verification": {
+      "discovery_source": "Ballotpedia, Spectrum News, LPM, Newsweek, FEC",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://ballotpedia.org/Andy_Barr", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.lpm.org/news/2026-05-01/rep-andy-barr-gets-coveted-trump-endorsement-in-kentucky-senate-race-to-replace-mcconnell", "publisher": "Louisville Public Media", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.newsweek.com/trump-endorses-andy-barr-for-kentucky-senate-what-polls-say-11905616", "publisher": "Newsweek", "tier": "tier-2", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["total_raised_this_cycle", "cash_on_hand", "burn_rate", "self_funded_amount", "twitter_x_followers", "instagram_handle", "youtube_channel", "tiktok_handle", "nra_pvf_rating", "sba_pro_life", "club_for_growth", "heritage_action", "governor_endorsed"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Daniel Cameron",
+    "office_sought": "U.S. Senate",
+    "state": "Kentucky",
+    "district": "Statewide",
+    "primary_date": "2026-05-19",
+    "incumbent": false,
+    "filing_status": "filed",
+    "biography": {
+      "age": "39",
+      "occupation_before_politics": "Attorney / Kentucky Attorney General",
+      "military_service": "no",
+      "military_branch_and_rank": "",
+      "education": "B.S. University of Louisville (2008); J.D. University of Louisville School of Law (2011)",
+      "prior_elected_offices": [
+        "Kentucky Attorney General (2020–2024)",
+        "General Counsel to Senator Mitch McConnell"
+      ],
+      "notable_career_highlights": "First Black American elected to a statewide standalone office in Kentucky history; 2023 Republican gubernatorial nominee; president of Student Bar Association at U of L"
+    },
+    "campaign": {
+      "campaign_website": "https://cameronforkentucky.com",
+      "campaign_slogan": "New Generation of Leadership",
+      "top_3_policy_priorities": [
+        "Cut taxes and spur job growth in manufacturing, agriculture, and small businesses",
+        "Unleash American energy and oppose Green New Deal/EV mandates",
+        "America First conservatism aligned with Trump's agenda"
+      ],
+      "campaign_announcement_date": "2026-01-07",
+      "campaign_announcement_source": "https://spectrumnews1.com/ky/louisville/news/2026/01/07/daniel-cameron-senate-official"
+    },
+    "endorsements": {
+      "trump_endorsement": "no",
+      "trump_endorsement_date": "",
+      "nrsc_endorsed": "no",
+      "nrcc_endorsed": "unknown",
+      "governor_endorsed": "unknown",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": [],
+      "pac_support": []
+    },
+    "financials": {
+      "total_raised_this_cycle": "~$2M raised",
+      "cash_on_hand": "not found",
+      "burn_rate": "not found",
+      "top_donor_type": "mixed",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "https://www.fec.gov/data/candidate/S6KY00237/"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-02-01",
+        "pollster": "Emerson College",
+        "result": "Cameron 31%, Barr 29%, Morris 13%",
+        "source_url": "https://www.lpm.org/news/2026-02-02/cameron-leads-polls-in-kentuckys-gop-senate-primary-though-billionaires-back-opponent"
+      },
+      {
+        "poll_date": "2026-03-31",
+        "pollster": "Emerson College / FOX56 Kentucky",
+        "result": "Barr 28%, Cameron ~27%, Morris 17%",
+        "source_url": "https://www.newsweek.com/trump-endorses-andy-barr-for-kentucky-senate-what-polls-say-11905616"
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "Multiple; main rival Andy Barr (Trump-endorsed)",
+      "seat_status": "open",
+      "cook_political_report_rating": "Solid Republican (general election)",
+      "previous_election_margin": "Lost 2023 gubernatorial general to Gov. Beshear",
+      "runoff_required": "no",
+      "runoff_date": ""
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "@DanielCameronKY",
+      "twitter_x_followers": "not found",
+      "facebook_url": "https://www.facebook.com/DanielCameronKY/",
+      "facebook_followers": "not found",
+      "instagram_handle": "not found",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "America First credentials, AG record, anti-EV mandate"
+    },
+    "verification": {
+      "discovery_source": "Ballotpedia, LPM, Washington Examiner, FEC",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://ballotpedia.org/Daniel_Cameron", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.lpm.org/news/2026-02-02/cameron-leads-polls-in-kentuckys-gop-senate-primary-though-billionaires-back-opponent", "publisher": "Louisville Public Media", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.fec.gov/data/candidate/S6KY00237/", "publisher": "FEC", "tier": "tier-1", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["cash_on_hand", "burn_rate", "self_funded_amount", "twitter_x_followers", "instagram_handle", "youtube_channel", "tiktok_handle", "nra_pvf_rating", "sba_pro_life", "club_for_growth", "heritage_action"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Mike Collins",
+    "office_sought": "U.S. Senate",
+    "state": "Georgia",
+    "district": "Statewide",
+    "primary_date": "2026-05-19",
+    "incumbent": false,
+    "filing_status": "filed",
+    "biography": {
+      "age": "58",
+      "occupation_before_politics": "Trucking company co-owner / businessman",
+      "military_service": "no",
+      "military_branch_and_rank": "",
+      "education": "B.B.A. Georgia State University (1990)",
+      "prior_elected_offices": [
+        "U.S. Representative, Georgia 10th District (2023–present)"
+      ],
+      "notable_career_highlights": "Son of former Rep. Mac Collins (GA-08); co-founded trucking company with 100+ employees; Club for Growth PAC lifetime rating of 100%; introduced the Laken Riley Act"
+    },
+    "campaign": {
+      "campaign_website": "https://mikecollinsga.com",
+      "campaign_slogan": "Join the Ride — America First Senate",
+      "top_3_policy_priorities": [
+        "Border security and immigration enforcement (Laken Riley Act author)",
+        "Deregulation and reducing housing/small business costs",
+        "Cutting federal spending and pro-Trump economic agenda"
+      ],
+      "campaign_announcement_date": "2025-07-27",
+      "campaign_announcement_source": "https://georgiarecorder.com/2025/07/28/georgia-congressman-mike-collins-enters-u-s-senate-race-with-pro-trump-message/"
+    },
+    "endorsements": {
+      "trump_endorsement": "no",
+      "trump_endorsement_date": "",
+      "nrsc_endorsed": "unknown",
+      "nrcc_endorsed": "unknown",
+      "governor_endorsed": "no",
+      "club_for_growth": "yes",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": [
+        "Club for Growth PAC (100% lifetime rating)"
+      ],
+      "pac_support": [
+        "Club for Growth PAC"
+      ]
+    },
+    "financials": {
+      "total_raised_this_cycle": "Top fundraiser in GA-SEN primary; ~$1M+ Q1 2026",
+      "cash_on_hand": "not found",
+      "burn_rate": "not found",
+      "top_donor_type": "mixed",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "https://www.fec.gov/data/candidate/H2GA10059/"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-04-01",
+        "pollster": "Quantus Insights",
+        "result": "Collins 33%, Dooley 23%, Carter 14%",
+        "source_url": "https://www.washingtontimes.com/news/2026/may/16/georgia-gop-senate-primary-five-candidates-zero-trump-endorsements-and-a-runoff-looms/"
+      },
+      {
+        "poll_date": "2026-04-01",
+        "pollster": "Atlanta Journal-Constitution / Cygnal Political",
+        "result": "Collins 22–30%, Carter 11–13%, Dooley 11–12%",
+        "source_url": "https://www.nbcnews.com/politics/2026-election/first-attack-ad-churns-georgias-uncertain-republican-senate-primary-rcna341210"
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "4+ (Carter, Dooley, and others)",
+      "seat_status": "open",
+      "cook_political_report_rating": "not found (Toss-up or Lean D per general forecasts)",
+      "previous_election_margin": "N/A — Jon Ossoff won 2020 runoff by ~1.2 points",
+      "runoff_required": "yes",
+      "runoff_date": "2026-06-16"
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "@MikeCollinsGA",
+      "twitter_x_followers": "not found",
+      "facebook_url": "not found",
+      "facebook_followers": "not found",
+      "instagram_handle": "not found",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "Pro-Trump America First; trucking business; Laken Riley Act"
+    },
+    "verification": {
+      "discovery_source": "Ballotpedia, Georgia Recorder, OpenSecrets, NBC News, Washington Times",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://ballotpedia.org/Mike_Collins_(Georgia)", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.opensecrets.org/news/2026/04/small-donors-vs-big-checks-fundraising-divide-shapes-georgia-senate-race/", "publisher": "OpenSecrets", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.clubforgrowth.org/club-for-growth-pac-endorses-rep-mike-collins-in-ga-sen-race/", "publisher": "Club for Growth", "tier": "tier-2", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["cash_on_hand", "burn_rate", "self_funded_amount", "twitter_x_followers", "facebook_url", "instagram_handle", "youtube_channel", "tiktok_handle", "nra_pvf_rating", "sba_pro_life", "heritage_action", "cook_political_report_rating"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Earl \"Buddy\" Carter",
+    "office_sought": "U.S. Senate",
+    "state": "Georgia",
+    "district": "Statewide",
+    "primary_date": "2026-05-19",
+    "incumbent": false,
+    "filing_status": "filed",
+    "biography": {
+      "age": "68",
+      "occupation_before_politics": "Pharmacist",
+      "military_service": "no",
+      "military_branch_and_rank": "",
+      "education": "Associate Degree, Young Harris College (1977); B.S. Pharmacy, University of Georgia (1980)",
+      "prior_elected_offices": [
+        "Pooler, GA City Council",
+        "Pooler, GA Mayor",
+        "Georgia State Senate",
+        "U.S. Representative, Georgia 1st District (2015–present)"
+      ],
+      "notable_career_highlights": "MAGA Warrior self-identification; launched first attack ad of Georgia GOP primary; self-loaned $3M to campaign; pharmacist background informs healthcare stance"
+    },
+    "campaign": {
+      "campaign_website": "not found",
+      "campaign_slogan": "MAGA Warrior for Georgia",
+      "top_3_policy_priorities": [
+        "Border security and ending illegal immigration",
+        "Banning transgender athletes from women's and girls' sports",
+        "Suspending federal gas tax to lower fuel costs"
+      ],
+      "campaign_announcement_date": "2025-05-08",
+      "campaign_announcement_source": "https://georgiarecorder.com/2025/05/09/georgia-gop-u-s-rep-buddy-carter-enters-2026-senate-race-after-kemp-bows-out/"
+    },
+    "endorsements": {
+      "trump_endorsement": "no",
+      "trump_endorsement_date": "",
+      "nrsc_endorsed": "unknown",
+      "nrcc_endorsed": "unknown",
+      "governor_endorsed": "no",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": [],
+      "pac_support": []
+    },
+    "financials": {
+      "total_raised_this_cycle": "~$470K raised Q1 2026",
+      "cash_on_hand": "$3.7M (Q1 2026, boosted by $3M self-loan)",
+      "burn_rate": "not found",
+      "top_donor_type": "self-funded",
+      "self_funded_amount": "$3M loan",
+      "fec_filing_url": "https://www.fec.gov/data/committee/C00543967/"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-04-01",
+        "pollster": "Cygnal Political",
+        "result": "Collins 30%, Dooley 12%, Carter 11%",
+        "source_url": "https://www.nbcnews.com/politics/2026-election/first-attack-ad-churns-georgias-uncertain-republican-senate-primary-rcna341210"
+      },
+      {
+        "poll_date": "2026-04-01",
+        "pollster": "Atlanta Journal-Constitution",
+        "result": "Collins 22%, Carter 13%, Dooley 11%",
+        "source_url": "https://www.nbcnews.com/politics/2026-election/first-attack-ad-churns-georgias-uncertain-republican-senate-primary-rcna341210"
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "4+ (Collins, Dooley, and others)",
+      "seat_status": "open",
+      "cook_political_report_rating": "not found",
+      "previous_election_margin": "N/A — challenging Ossoff for open seat",
+      "runoff_required": "yes",
+      "runoff_date": "2026-06-16"
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "not found",
+      "twitter_x_followers": "not found",
+      "facebook_url": "not found",
+      "facebook_followers": "not found",
+      "instagram_handle": "not found",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "Attack ad vs. Collins: federal investigation for misusing taxpayer funds"
+    },
+    "verification": {
+      "discovery_source": "Ballotpedia, Georgia Recorder, NBC News, AJC, FEC",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://ballotpedia.org/Earl_%22Buddy%22_Carter", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.nbcnews.com/politics/2026-election/first-attack-ad-churns-georgias-uncertain-republican-senate-primary-rcna341210", "publisher": "NBC News", "tier": "tier-1", "date_accessed": "2026-05-18"},
+        {"url": "https://www.fec.gov/data/committee/C00543967/", "publisher": "FEC", "tier": "tier-1", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["campaign_website", "burn_rate", "twitter_x_handle", "twitter_x_followers", "facebook_url", "instagram_handle", "youtube_channel", "tiktok_handle", "nra_pvf_rating", "sba_pro_life", "club_for_growth", "heritage_action", "cook_political_report_rating"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Derek Dooley",
+    "office_sought": "U.S. Senate",
+    "state": "Georgia",
+    "district": "Statewide",
+    "primary_date": "2026-05-19",
+    "incumbent": false,
+    "filing_status": "filed",
+    "biography": {
+      "age": "57",
+      "occupation_before_politics": "Football coach and attorney",
+      "military_service": "no",
+      "military_branch_and_rank": "",
+      "education": "B.A. Foreign Affairs and Government, University of Virginia; J.D. University of Georgia (1994)",
+      "prior_elected_offices": [],
+      "notable_career_highlights": "Son of legendary UGA coach Vince Dooley; 28-year coaching career including Tennessee head coach (2010–2012) and 9 years NFL coaching; practiced law at Nelson Mullins Riley & Scarborough; first-time political candidate"
+    },
+    "campaign": {
+      "campaign_website": "https://www.dooleyforgeorgia.com",
+      "campaign_slogan": "Put Georgia First",
+      "top_3_policy_priorities": [
+        "Border security and closing the southern border",
+        "Reducing housing and building regulations to lower costs",
+        "Term limits for senators; ending business-as-usual in Washington"
+      ],
+      "campaign_announcement_date": "2025-08-01",
+      "campaign_announcement_source": "https://www.espn.com/college-football/story/_/id/45897925/ex-tennessee-coach-derek-dooley-running-senate-georgia"
+    },
+    "endorsements": {
+      "trump_endorsement": "no",
+      "trump_endorsement_date": "",
+      "nrsc_endorsed": "unknown",
+      "nrcc_endorsed": "unknown",
+      "governor_endorsed": "yes",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": [
+        "Governor Brian Kemp"
+      ],
+      "pac_support": [
+        "Hardworking Americans Inc. (Kemp's super PAC, ~$813K in ads)"
+      ]
+    },
+    "financials": {
+      "total_raised_this_cycle": "~$1.85M (first 58 days); ~$664K Q1 2026",
+      "cash_on_hand": "~$1.7M (end of quarter)",
+      "burn_rate": "not found",
+      "top_donor_type": "mixed",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "https://www.fec.gov/data/candidate/S6GA00408/"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-04-01",
+        "pollster": "Cygnal Political",
+        "result": "Collins 30%, Dooley 12%, Carter 11%",
+        "source_url": "https://www.nbcnews.com/politics/2026-election/first-attack-ad-churns-georgias-uncertain-republican-senate-primary-rcna341210"
+      },
+      {
+        "poll_date": "2026-04-01",
+        "pollster": "Quantus Insights",
+        "result": "Collins 33%, Dooley 23%, Carter 14%",
+        "source_url": "https://www.washingtontimes.com/news/2026/may/16/georgia-gop-senate-primary-five-candidates-zero-trump-endorsements-and-a-runoff-looms/"
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "4+ (Collins, Carter, and others)",
+      "seat_status": "open",
+      "cook_political_report_rating": "not found",
+      "previous_election_margin": "N/A — first-time candidate",
+      "runoff_required": "yes",
+      "runoff_date": "2026-06-16"
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "not found",
+      "twitter_x_followers": "not found",
+      "facebook_url": "not found",
+      "facebook_followers": "not found",
+      "instagram_handle": "not found",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "Georgia First themes; border security; Kemp-backed ad buys"
+    },
+    "verification": {
+      "discovery_source": "Ballotpedia, ESPN, NBC News, Georgia Recorder, FEC",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://ballotpedia.org/Derek_Dooley", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.espn.com/college-football/story/_/id/45897925/ex-tennessee-coach-derek-dooley-running-senate-georgia", "publisher": "ESPN", "tier": "tier-1", "date_accessed": "2026-05-18"},
+        {"url": "https://www.fec.gov/data/candidate/S6GA00408/", "publisher": "FEC", "tier": "tier-1", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["twitter_x_handle", "twitter_x_followers", "facebook_url", "instagram_handle", "youtube_channel", "tiktok_handle", "nra_pvf_rating", "sba_pro_life", "club_for_growth", "heritage_action", "burn_rate", "self_funded_amount", "cook_political_report_rating"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Kurt Alme",
+    "office_sought": "U.S. Senate",
+    "state": "Montana",
+    "district": "Statewide",
+    "primary_date": "2026-06-02",
+    "incumbent": false,
+    "filing_status": "filed",
+    "biography": {
+      "age": "59",
+      "occupation_before_politics": "U.S. Attorney / Federal prosecutor / Montana Governor's Budget Director",
+      "military_service": "no",
+      "military_branch_and_rank": "",
+      "education": "B.S. Business, University of Colorado at Boulder; J.D. Harvard Law School (with honors)",
+      "prior_elected_offices": [],
+      "notable_career_highlights": "U.S. Attorney for District of Montana (2017–2020 and March 2025–March 2026); budget director for Gov. Gianforte; endorsed by three presidents (Trump twice for U.S. Attorney, once for Senate); filed at deadline after Sen. Daines withdrew"
+    },
+    "campaign": {
+      "campaign_website": "https://almeforsenate.com",
+      "campaign_slogan": "Making Life Affordable, Communities Safer, Protecting Montana Way of Life",
+      "top_3_policy_priorities": [
+        "Making life affordable for Montanans",
+        "Making communities safer (anti-drug trafficking, violent crime prosecution)",
+        "Protecting the Montana way of life and public lands"
+      ],
+      "campaign_announcement_date": "2026-03-04",
+      "campaign_announcement_source": "https://dailymontanan.com/2026/03/04/kurt-alme-files-for-u-s-senate-immediately-endorsed-by-outgoing-sen-daines-president-trump/"
+    },
+    "endorsements": {
+      "trump_endorsement": "yes",
+      "trump_endorsement_date": "2026-03-04",
+      "nrsc_endorsed": "yes",
+      "nrcc_endorsed": "unknown",
+      "governor_endorsed": "yes",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": [
+        "Sen. Steve Daines",
+        "Sen. Tim Sheehy",
+        "Gov. Greg Gianforte"
+      ],
+      "pac_support": []
+    },
+    "financials": {
+      "total_raised_this_cycle": "~$1M (first fundraising period)",
+      "cash_on_hand": "~$1M (after first period)",
+      "burn_rate": "not found",
+      "top_donor_type": "PAC",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "https://www.fec.gov/data/candidate/S6MT00215/"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-03-01",
+        "pollster": "Forecasters / Inside Elections",
+        "result": "Race moved from Solid R to Likely R after Daines withdrew",
+        "source_url": "https://rollcall.com/2026/03/10/rating-change-montana-senate-moves-out-of-solid/"
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "2 others in Republican primary",
+      "seat_status": "open",
+      "cook_political_report_rating": "Likely Republican",
+      "previous_election_margin": "N/A — open seat (Daines not running)",
+      "runoff_required": "no",
+      "runoff_date": ""
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "not found",
+      "twitter_x_followers": "not found",
+      "facebook_url": "not found",
+      "facebook_followers": "not found",
+      "instagram_handle": "not found",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "Affordability, community safety, Montana way of life"
+    },
+    "verification": {
+      "discovery_source": "Daily Montanan, Fox News, Ballotpedia, Montana Free Press, Roll Call",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://ballotpedia.org/Kurt_Alme", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://dailymontanan.com/2026/03/04/kurt-alme-files-for-u-s-senate-immediately-endorsed-by-outgoing-sen-daines-president-trump/", "publisher": "Daily Montanan", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.foxnews.com/politics/steve-daines-handpicked-senate-successor-kurt-alme-vows-keep-montana-republican-hands-2026", "publisher": "Fox News", "tier": "tier-2", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["burn_rate", "self_funded_amount", "twitter_x_handle", "twitter_x_followers", "facebook_url", "instagram_handle", "youtube_channel", "tiktok_handle", "nra_pvf_rating", "sba_pro_life", "club_for_growth", "heritage_action", "military_service"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Don Tracy",
+    "office_sought": "U.S. Senate",
+    "state": "Illinois",
+    "district": "Statewide",
+    "primary_date": "2026-03-17",
+    "incumbent": false,
+    "filing_status": "filed",
+    "biography": {
+      "age": "75",
+      "occupation_before_politics": "Attorney (senior counsel, Brown, Hay and Stephens; general outside counsel, Dot Foods)",
+      "military_service": "unknown",
+      "military_branch_and_rank": "",
+      "education": "B.A. Arizona State University; J.D. University of Memphis",
+      "prior_elected_offices": [
+        "Illinois Gaming Board Chair (2015–2019, appointed)",
+        "Illinois Republican Party Chair (2021–2024)"
+      ],
+      "notable_career_highlights": "Eldest of 12 children of Dot Foods founder Robert F. Tracy; ran unsuccessfully for IL Lt. Governor in 2010; won GOP primary defeating two rivals with $2.1M; practices at oldest law firm in Illinois where Lincoln once practiced"
+    },
+    "campaign": {
+      "campaign_website": "https://dontracyforil.com",
+      "campaign_slogan": "Common Sense Solutions for Illinois",
+      "top_3_policy_priorities": [
+        "Lowering cost of living (energy, housing, groceries)",
+        "Reducing healthcare costs through transparency and competition",
+        "Cutting government spending and reducing inflation"
+      ],
+      "campaign_announcement_date": "2025-01-01",
+      "campaign_announcement_source": "https://ballotpedia.org/Don_Tracy"
+    },
+    "endorsements": {
+      "trump_endorsement": "unknown",
+      "trump_endorsement_date": "",
+      "nrsc_endorsed": "unknown",
+      "nrcc_endorsed": "unknown",
+      "governor_endorsed": "unknown",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": [
+        "Illinois Republican Party establishment backing"
+      ],
+      "pac_support": []
+    },
+    "financials": {
+      "total_raised_this_cycle": "~$2.1M (primary cycle)",
+      "cash_on_hand": "not found",
+      "burn_rate": "not found",
+      "top_donor_type": "mixed",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "https://www.fec.gov/data/candidate/S6IL00164/"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-03-17",
+        "pollster": "Primary results",
+        "result": "Tracy won Republican primary on March 17, 2026",
+        "source_url": "https://www.ibtimes.com/illinois-election-results-2026-who-don-tracy-75-year-old-attorney-who-won-republican-senate-3799530"
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "2 (Jeannie Evans, Casey Chlebek)",
+      "seat_status": "open",
+      "cook_political_report_rating": "Solid Democratic",
+      "previous_election_margin": "N/A — open seat (Durbin retiring); Harris won IL by 11 points in 2024",
+      "runoff_required": "no",
+      "runoff_date": ""
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "not found",
+      "twitter_x_followers": "not found",
+      "facebook_url": "not found",
+      "facebook_followers": "not found",
+      "instagram_handle": "not found",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "not found"
+    },
+    "verification": {
+      "discovery_source": "IBTimes, National Today, Ballotpedia, WTTW, Chicago Sun-Times",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://ballotpedia.org/Don_Tracy", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.ibtimes.com/illinois-election-results-2026-who-don-tracy-75-year-old-attorney-who-won-republican-senate-3799530", "publisher": "IBTimes", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://news.wttw.com/elections/voters-guide/2026-primary/don-tracy", "publisher": "WTTW", "tier": "tier-2", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["cash_on_hand", "burn_rate", "self_funded_amount", "twitter_x_handle", "twitter_x_followers", "facebook_url", "instagram_handle", "youtube_channel", "tiktok_handle", "nra_pvf_rating", "sba_pro_life", "club_for_growth", "heritage_action", "trump_endorsement", "military_service", "campaign_announcement_date", "most_recent_ad_topic"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Tom Cotton",
+    "office_sought": "U.S. Senate",
+    "state": "Arkansas",
+    "district": "Statewide",
+    "primary_date": "2026-03-03",
+    "incumbent": true,
+    "filing_status": "filed",
+    "biography": {
+      "age": "49",
+      "occupation_before_politics": "U.S. Army infantry officer; attorney; management consultant; farmer",
+      "military_service": "yes",
+      "military_branch_and_rank": "U.S. Army, Infantry Officer, Captain; served 2004–2009",
+      "education": "B.A. Government, Harvard University (1998); J.D. Harvard Law School (2002)",
+      "prior_elected_offices": [
+        "U.S. Representative, Arkansas 4th District (2013–2015)",
+        "U.S. Senator from Arkansas (2015–present)"
+      ],
+      "notable_career_highlights": "Deployed to Iraq (101st Airborne, 506th Infantry) and Afghanistan; Bronze Star recipient; Senate Intelligence Committee Chair; Conference Chairman (No. 3 Republican in Senate); Harvard-educated sixth-generation Arkansan"
+    },
+    "campaign": {
+      "campaign_website": "https://www.tomcotton.com",
+      "campaign_slogan": "Proud to Serve Arkansas",
+      "top_3_policy_priorities": [
+        "National security and strong military/intelligence posture",
+        "Border security and immigration enforcement",
+        "Cutting spending and taxes"
+      ],
+      "campaign_announcement_date": "2025-01-01",
+      "campaign_announcement_source": "https://katv.com/news/local/senator-tom-cotton-announces-campaign-for-reelection-to-senate-in-2026"
+    },
+    "endorsements": {
+      "trump_endorsement": "yes",
+      "trump_endorsement_date": "not found",
+      "nrsc_endorsed": "yes",
+      "nrcc_endorsed": "unknown",
+      "governor_endorsed": "unknown",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": [],
+      "pac_support": []
+    },
+    "financials": {
+      "total_raised_this_cycle": "~$598K contributions Q1 2026",
+      "cash_on_hand": "~$9.8M (end of March 2026)",
+      "burn_rate": "not found",
+      "top_donor_type": "mixed",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "https://www.fec.gov/data/candidate/S4AR00103/"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-03-03",
+        "pollster": "Primary results",
+        "result": "Cotton won primary decisively over Micah Ashby and Jeb Little",
+        "source_url": "https://www.nbcnews.com/politics/2026-primary-elections/arkansas-senate-results"
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "2 (Micah Ashby, Jeb Little) — both defeated",
+      "seat_status": "incumbent-held",
+      "cook_political_report_rating": "Solid Republican",
+      "previous_election_margin": "Won 2020 general by 35+ points",
+      "runoff_required": "no",
+      "runoff_date": ""
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "@TomCottonAR",
+      "twitter_x_followers": "~434.7K (@SenTomCotton)",
+      "facebook_url": "not found",
+      "facebook_followers": "not found",
+      "instagram_handle": "@tomcottonar",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "not found (unopposed in general until November 2026)"
+    },
+    "verification": {
+      "discovery_source": "Ballotpedia, Arkansas Democrat-Gazette, Cook Political Report, FEC, Wikipedia",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://ballotpedia.org/Tom_Cotton", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.arkansasonline.com/news/2026/apr/15/cotton-shoffner-campaigns-report-fundraising/", "publisher": "Arkansas Democrat-Gazette", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.cookpolitical.com/senate/race/488541", "publisher": "Cook Political Report", "tier": "tier-1", "date_accessed": "2026-05-18"},
+        {"url": "https://en.wikipedia.org/wiki/Tom_Cotton", "publisher": "Wikipedia", "tier": "tier-3", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["burn_rate", "self_funded_amount", "facebook_url", "facebook_followers", "instagram_followers", "youtube_channel", "tiktok_handle", "nra_pvf_rating", "sba_pro_life", "club_for_growth", "heritage_action", "governor_endorsed", "trump_endorsement_date", "most_recent_ad_topic"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Pete Ricketts",
+    "office_sought": "U.S. Senate",
+    "state": "Nebraska",
+    "district": "Statewide",
+    "primary_date": "2026-05-12",
+    "incumbent": true,
+    "filing_status": "filed",
+    "biography": {
+      "age": "61",
+      "occupation_before_politics": "Businessman (COO TD Ameritrade / Ameritrade; son of founder Joe Ricketts)",
+      "military_service": "no",
+      "military_branch_and_rank": "",
+      "education": "B.A. Biology, University of Chicago (1986); M.B.A. Marketing and Finance, University of Chicago (1991)",
+      "prior_elected_offices": [
+        "Governor of Nebraska (2015–2023)",
+        "U.S. Senator from Nebraska (2023–present, appointed then elected in 2024 special)"
+      ],
+      "notable_career_highlights": "Appointed to Senate by successor Gov. Jim Pillen in 2023 to fill Ben Sasse vacancy; won 2024 special election to complete Sasse's term; partial owner of Chicago Cubs; running for first full Senate term"
+    },
+    "campaign": {
+      "campaign_website": "https://petericketts.com",
+      "campaign_slogan": "Pete Delivers. Nebraskans Win.",
+      "top_3_policy_priorities": [
+        "Cutting taxes and border security alongside Trump",
+        "Supporting Nebraska agriculture and rural communities",
+        "Veterans support and military readiness"
+      ],
+      "campaign_announcement_date": "2025-09-21",
+      "campaign_announcement_source": "https://nebraskaexaminer.com/voter-guides/contests/2026-primary-u-s-senate/"
+    },
+    "endorsements": {
+      "trump_endorsement": "unknown",
+      "trump_endorsement_date": "",
+      "nrsc_endorsed": "unknown",
+      "nrcc_endorsed": "unknown",
+      "governor_endorsed": "unknown",
+      "club_for_growth": "yes",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": [],
+      "pac_support": [
+        "Ricketts Victory Committee (joint fundraising)"
+      ]
+    },
+    "financials": {
+      "total_raised_this_cycle": "~$4.87M total receipts (Jan 2025–Apr 2026)",
+      "cash_on_hand": "$1.6M (including Ricketts Victory Committee)",
+      "burn_rate": "not found",
+      "top_donor_type": "mixed",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "https://www.fec.gov/data/committee/C00832436/"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-05-12",
+        "pollster": "Primary results",
+        "result": "Ricketts won primary with 81.8% of the vote",
+        "source_url": "https://nebraskapublicmedia.org/en/news/news-articles/2026-us-senate-primary-results/"
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "Multiple — won with 81.8% of primary vote",
+      "seat_status": "incumbent-held",
+      "cook_political_report_rating": "Likely Republican",
+      "previous_election_margin": "Won 2024 special election",
+      "runoff_required": "no",
+      "runoff_date": ""
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "@PeteRicketts",
+      "twitter_x_followers": "not found",
+      "facebook_url": "not found",
+      "facebook_followers": "not found",
+      "instagram_handle": "not found",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "not found"
+    },
+    "verification": {
+      "discovery_source": "Nebraska Public Media, Nebraska Examiner, Ballotpedia, FEC, Cook Political Report",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://ballotpedia.org/Pete_Ricketts", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://nebraskapublicmedia.org/en/news/news-articles/2026-us-senate-primary-results/", "publisher": "Nebraska Public Media", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.cookpolitical.com/senate/race/488631", "publisher": "Cook Political Report", "tier": "tier-1", "date_accessed": "2026-05-18"},
+        {"url": "https://www.fec.gov/data/committee/C00832436/", "publisher": "FEC", "tier": "tier-1", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["burn_rate", "self_funded_amount", "trump_endorsement", "nrsc_endorsed", "twitter_x_followers", "facebook_url", "instagram_handle", "youtube_channel", "tiktok_handle", "nra_pvf_rating", "sba_pro_life", "heritage_action", "most_recent_ad_topic"],
+      "stale_source_flag": "no"
+    }
+  }
+]

@@ -1,0 +1,1085 @@
+[
+  {
+    "candidate_name": "Mark Baisley",
+    "office_sought": "U.S. Senate",
+    "state": "Colorado",
+    "district": "Statewide",
+    "primary_date": "2026-06-30",
+    "incumbent": false,
+    "filing_status": "filed",
+    "biography": {
+      "age": "70 (born 1955)",
+      "occupation_before_politics": "Senior systems engineer (Martin Marietta, Raytheon); President of Slipglass Inc. and Enspherics",
+      "military_service": "unknown",
+      "military_branch_and_rank": "not found",
+      "education": "B.S. Computer Information Systems and Business Administration, Columbia College (Missouri), 1993",
+      "prior_elected_offices": ["Colorado State Senate, District 4 (current)"],
+      "notable_career_highlights": "Colorado State Senator; vice chair and finance chairman of the Republican Party of Colorado; switched from gubernatorial race to Senate race January 2026"
+    },
+    "campaign": {
+      "campaign_website": "https://baisleyforsenate.com",
+      "campaign_slogan": "not found",
+      "top_3_policy_priorities": [
+        "Constitutional governance",
+        "Economic growth and reducing Washington overreach",
+        "Family values"
+      ],
+      "campaign_announcement_date": "2026-01-05",
+      "campaign_announcement_source": "https://www.coloradopolitics.com/2026/01/05/colorado-republican-mark-baisley-exits-gubernatorial-race-launches-u-s-senate-campaign/"
+    },
+    "endorsements": {
+      "trump_endorsement": "no",
+      "trump_endorsement_date": "not found",
+      "nrsc_endorsed": "unknown",
+      "nrcc_endorsed": "no",
+      "governor_endorsed": "unknown",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": [],
+      "pac_support": []
+    },
+    "financials": {
+      "total_raised_this_cycle": "~$32,000 (through early 2026)",
+      "cash_on_hand": "$6,119.81 (early 2026)",
+      "burn_rate": "not found",
+      "top_donor_type": "small dollar",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "https://www.fec.gov/data/candidate/S6CO00349/"
+    },
+    "polling": [],
+    "race_context": {
+      "number_of_primary_opponents": "4+ (Janak Joshi, Sean Pond, George Markert, Dathan Jones, others)",
+      "seat_status": "pickup-opportunity",
+      "cook_political_report_rating": "not found",
+      "previous_election_margin": "Hickenlooper won 2020 by ~13 points",
+      "runoff_required": "no",
+      "runoff_date": "not found"
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "@MarkBaisley",
+      "twitter_x_followers": "not found",
+      "facebook_url": "not found",
+      "facebook_followers": "not found",
+      "instagram_handle": "not found",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "not found"
+    },
+    "verification": {
+      "discovery_source": "Ballotpedia; Colorado Politics; Colorado Newsline",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://ballotpedia.org/Mark_Baisley", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.coloradopolitics.com/2026/01/05/colorado-republican-mark-baisley-exits-gubernatorial-race-launches-us-senate-campaign/", "publisher": "Colorado Politics", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://coloradonewsline.com/briefs/mark-baisley-senate-colorado/", "publisher": "Colorado Newsline", "tier": "tier-2", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["military_service", "campaign_slogan", "burn_rate", "self_funded_amount", "polling", "cook_political_report_rating", "twitter_x_followers", "facebook_url", "instagram_handle", "youtube_channel", "tiktok_handle", "most_recent_ad_topic", "nra_pvf_rating"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Michele Tafoya",
+    "office_sought": "U.S. Senate",
+    "state": "Minnesota",
+    "district": "Statewide",
+    "primary_date": "2026-08-11",
+    "incumbent": false,
+    "filing_status": "filed",
+    "biography": {
+      "age": "61 (born December 17, 1964)",
+      "occupation_before_politics": "Sports broadcaster (NBC Sunday Night Football sideline reporter 2011-2022; ABC, CBS, ESPN)",
+      "military_service": "no",
+      "military_branch_and_rank": "",
+      "education": "B.A. Mass Communications, UC Berkeley, 1988; M.B.A., University of Southern California, 1991",
+      "prior_elected_offices": [],
+      "notable_career_highlights": "Four-time Emmy Award-winning sports journalist; sideline reporter for NBC Sunday Night Football; conservative political commentator after 2022"
+    },
+    "campaign": {
+      "campaign_website": "https://micheletafoya.com",
+      "campaign_slogan": "not found",
+      "top_3_policy_priorities": [
+        "Fighting fraud and government accountability",
+        "Cost of living and affordability",
+        "Keeping biological males out of women's sports; deportation of criminal illegal immigrants"
+      ],
+      "campaign_announcement_date": "2026-01-21",
+      "campaign_announcement_source": "https://www.axios.com/local/twin-cities/2026/01/21/michele-tafoya-us-senate-race-minnesota-republican"
+    },
+    "endorsements": {
+      "trump_endorsement": "no",
+      "trump_endorsement_date": "not found",
+      "nrsc_endorsed": "yes",
+      "nrcc_endorsed": "no",
+      "governor_endorsed": "unknown",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": ["NRSC (Senate Republicans' campaign arm)"],
+      "pac_support": []
+    },
+    "financials": {
+      "total_raised_this_cycle": "not found",
+      "cash_on_hand": "not found",
+      "burn_rate": "not found",
+      "top_donor_type": "mixed",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "https://www.fec.gov/data/candidate/S6MN00346/"
+    },
+    "polling": [],
+    "race_context": {
+      "number_of_primary_opponents": "~5 other Republicans",
+      "seat_status": "open",
+      "cook_political_report_rating": "not found",
+      "previous_election_margin": "Tina Smith (D) won 2020 by ~6 points; open seat 2026",
+      "runoff_required": "no",
+      "runoff_date": "not found"
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "@Michele_Tafoya",
+      "twitter_x_followers": "241,100",
+      "facebook_url": "not found",
+      "facebook_followers": "not found",
+      "instagram_handle": "not found",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "Fighting fraud in Minnesota; border security"
+    },
+    "verification": {
+      "discovery_source": "Axios Twin Cities; The Hill; MPR News",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://ballotpedia.org/Michele_Tafoya", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.axios.com/local/twin-cities/2026/01/21/michele-tafoya-us-senate-race-minnesota-republican", "publisher": "Axios", "tier": "tier-1", "date_accessed": "2026-05-18"},
+        {"url": "https://en.wikipedia.org/wiki/Michele_Tafoya", "publisher": "Wikipedia", "tier": "tier-2", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["campaign_slogan", "trump_endorsement_date", "total_raised_this_cycle", "cash_on_hand", "burn_rate", "self_funded_amount", "polling", "cook_political_report_rating", "facebook_url", "instagram_handle", "youtube_channel", "tiktok_handle", "nra_pvf_rating"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Mike Rogers",
+    "office_sought": "U.S. Senate",
+    "state": "Michigan",
+    "district": "Statewide",
+    "primary_date": "2026-08-04",
+    "incumbent": false,
+    "filing_status": "filed",
+    "biography": {
+      "age": "62 (born June 2, 1963)",
+      "occupation_before_politics": "FBI Special Agent (Chicago field office, organized crime/public corruption, 1989-1994); businessman",
+      "military_service": "yes",
+      "military_branch_and_rank": "U.S. Army, served 1985-1989",
+      "education": "B.S. Criminal Justice and Sociology, Adrian College, 1985",
+      "prior_elected_offices": ["Michigan State Senate (1995-2000)", "U.S. House MI-8 (2001-2015)"],
+      "notable_career_highlights": "Chairman, House Intelligence Committee; 2024 Republican Senate nominee (lost to Elissa Slotkin by ~1.5 pts); national security commentator"
+    },
+    "campaign": {
+      "campaign_website": "https://rogersforsenate.com",
+      "campaign_slogan": "not found",
+      "top_3_policy_priorities": [
+        "Flipping Michigan's Senate seat for Republicans",
+        "National security and intelligence",
+        "Supporting Trump's agenda and working families"
+      ],
+      "campaign_announcement_date": "2025-04-14",
+      "campaign_announcement_source": "https://www.michiganpublic.org/politics-government/2025-04-14/mike-rogers-announces-bid-for-u-s-senate"
+    },
+    "endorsements": {
+      "trump_endorsement": "yes",
+      "trump_endorsement_date": "not found",
+      "nrsc_endorsed": "unknown",
+      "nrcc_endorsed": "no",
+      "governor_endorsed": "unknown",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": ["Sentinel Action Fund ($15M pledge)", "Senate Leadership Fund ($45M pledge)"],
+      "pac_support": ["Senate Leadership Fund ($45M)", "Sentinel Action Fund ($15M)", "Great Lakes Conservatives Fund"]
+    },
+    "financials": {
+      "total_raised_this_cycle": "~$8M+ (campaign committee through Q1 2026)",
+      "cash_on_hand": "$4.2M (end Q1 2026)",
+      "burn_rate": "not found",
+      "top_donor_type": "mixed",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "https://www.fec.gov/data/candidate/S4MI00217/"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-05-01",
+        "pollster": "Not specified (multiple pollsters)",
+        "result": "Rogers leads Stevens 43.8%-41.5%; leads McMorrow 42.8%-40.7%; leads El-Sayed 44.7%-39.8% (general election matchups)",
+        "source_url": "https://www.newsweek.com/mike-rogers-campaign-announcement-michigan-senate-polls-2059546"
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "handful of Republican challengers",
+      "seat_status": "pickup-opportunity",
+      "cook_political_report_rating": "Toss-up",
+      "previous_election_margin": "Slotkin (D) won 2024 by ~1.5 points over Rogers",
+      "runoff_required": "no",
+      "runoff_date": "not found"
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "not found",
+      "twitter_x_followers": "not found",
+      "facebook_url": "not found",
+      "facebook_followers": "not found",
+      "instagram_handle": "@mikerogersformi",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "not found"
+    },
+    "verification": {
+      "discovery_source": "Wikipedia; Ballotpedia; Fox News; Michigan Advance",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://en.wikipedia.org/wiki/Mike_Rogers_(Michigan_politician)", "publisher": "Wikipedia", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://rogersforsenate.com", "publisher": "Official campaign", "tier": "tier-1", "date_accessed": "2026-05-18"},
+        {"url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4494797/mike-rogers-sentinel-action-fund-endorsement/", "publisher": "Washington Examiner", "tier": "tier-1", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["trump_endorsement_date", "campaign_slogan", "burn_rate", "self_funded_amount", "nra_pvf_rating", "twitter_x_handle", "twitter_x_followers", "facebook_url", "youtube_channel", "tiktok_handle", "most_recent_ad_topic"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Brandon Herrera",
+    "office_sought": "U.S. House",
+    "state": "Texas",
+    "district": "TX-23",
+    "primary_date": "2026-03-03",
+    "incumbent": false,
+    "filing_status": "filed",
+    "biography": {
+      "age": "30 (born November 20, 1995)",
+      "occupation_before_politics": "YouTuber (The AK Guy); firearms manufacturer (The AK Guy Inc.)",
+      "military_service": "no",
+      "military_branch_and_rank": "",
+      "education": "Attended Campbell University (pre-law), did not graduate",
+      "prior_elected_offices": [],
+      "notable_career_highlights": "4M+ subscriber YouTube channel focused on firearms; won March 3 primary with 43%; Gonzales withdrew after primary; became presumptive GOP nominee"
+    },
+    "campaign": {
+      "campaign_website": "https://brandonherreraforcongress.com",
+      "campaign_slogan": "not found",
+      "top_3_policy_priorities": [
+        "Second Amendment rights / gun rights",
+        "Border security (border wall, Remain in Mexico, end asylum abuse)",
+        "Fiscal conservatism (no new taxes, cut waste, REINS Act)"
+      ],
+      "campaign_announcement_date": "not found",
+      "campaign_announcement_source": "https://ballotpedia.org/Brandon_Herrera"
+    },
+    "endorsements": {
+      "trump_endorsement": "yes",
+      "trump_endorsement_date": "2026-03-11",
+      "nrsc_endorsed": "no",
+      "nrcc_endorsed": "unknown",
+      "governor_endorsed": "unknown",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": [],
+      "pac_support": []
+    },
+    "financials": {
+      "total_raised_this_cycle": "~$1,101,288 (through primary)",
+      "cash_on_hand": "not found",
+      "burn_rate": "not found",
+      "top_donor_type": "small dollar",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "https://www.fec.gov/data/candidate/H4TX23106/"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-03-01",
+        "pollster": "House Majority PAC",
+        "result": "Herrera 42% vs. Padilla Stout (D) 40% (general election matchup)",
+        "source_url": "https://www.thehousemajoritypac.com/news/new-hmp-polling-shows-tx-23-is-in-play-for-democrats"
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "1 major (Tony Gonzales, who withdrew post-primary)",
+      "seat_status": "open",
+      "cook_political_report_rating": "Likely Republican (downgraded from Solid R after Gonzales withdrew)",
+      "previous_election_margin": "Gonzales (R) won 2024 by ~8 points",
+      "runoff_required": "no",
+      "runoff_date": "not found"
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "@TheAKGuy",
+      "twitter_x_followers": "not found",
+      "facebook_url": "not found",
+      "facebook_followers": "not found",
+      "instagram_handle": "@RealBrandonHerrera",
+      "instagram_followers": "not found",
+      "youtube_channel": "https://www.youtube.com/channel/UCTrSsPMmZavLbc3Ex7VhjDg",
+      "youtube_subscribers": "~4,184,000",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "Border security; Second Amendment"
+    },
+    "verification": {
+      "discovery_source": "Texas Tribune; Ballotpedia; Wikipedia",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://www.texastribune.org/2026/03/11/brandon-herrera-trump-endorsement-republican-primary-texas-23rd-district-congress/", "publisher": "Texas Tribune", "tier": "tier-1", "date_accessed": "2026-05-18"},
+        {"url": "https://ballotpedia.org/Brandon_Herrera", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://en.wikipedia.org/wiki/Brandon_Herrera", "publisher": "Wikipedia", "tier": "tier-2", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["campaign_slogan", "campaign_announcement_date", "cash_on_hand", "burn_rate", "self_funded_amount", "nra_pvf_rating", "twitter_x_followers", "facebook_url", "tiktok_handle"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Young Kim",
+    "office_sought": "U.S. House",
+    "state": "California",
+    "district": "CA-40",
+    "primary_date": "2026-06-02",
+    "incumbent": true,
+    "filing_status": "filed",
+    "biography": {
+      "age": "63 (born October 18, 1962)",
+      "occupation_before_politics": "Financial analyst; business owner; congressional staff for Rep. Ed Royce (1993-2013)",
+      "military_service": "no",
+      "military_branch_and_rank": "",
+      "education": "B.B.A., University of Southern California, 1985",
+      "prior_elected_offices": ["California State Assembly (2014-2016)", "U.S. House CA-39/CA-40 (2021-present)"],
+      "notable_career_highlights": "First Korean-American woman elected to Congress; Chairwoman, House Foreign Affairs Subcommittee on East Asia and the Pacific; serves on House Financial Services Committee"
+    },
+    "campaign": {
+      "campaign_website": "https://youngkimforcongress.com",
+      "campaign_slogan": "not found",
+      "top_3_policy_priorities": [
+        "National security and counterterrorism",
+        "Economic growth and fiscal responsibility",
+        "Public safety, water, and infrastructure"
+      ],
+      "campaign_announcement_date": "not found",
+      "campaign_announcement_source": "https://youngkimforcongress.com"
+    },
+    "endorsements": {
+      "trump_endorsement": "unknown",
+      "trump_endorsement_date": "not found",
+      "nrsc_endorsed": "no",
+      "nrcc_endorsed": "unknown",
+      "governor_endorsed": "unknown",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": [],
+      "pac_support": []
+    },
+    "financials": {
+      "total_raised_this_cycle": "not found (strong small-dollar program; ~$1.7M unitemized this cycle)",
+      "cash_on_hand": "$5.8M (Q1 2026)",
+      "burn_rate": "not found",
+      "top_donor_type": "small dollar",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "https://www.fec.gov/data/candidate/H8CA39240/?cycle=2026"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-01-27",
+        "pollster": "Public Opinion Strategies",
+        "result": "Kim leads Calvert among likely primary voters; leads 54%-39% among voters favorable to both",
+        "source_url": "https://youngkimforcongress.com/press-release/ca-40-poll-shows-rep-young-kim-leading-calvert-overall-and-with-key-voting-blocs/"
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "9 others (top-two primary; major rivals: Ken Calvert (R), Joe Kerr (D), Esther Kim Varet (D))",
+      "seat_status": "incumbent-held",
+      "cook_political_report_rating": "Lean Republican",
+      "previous_election_margin": "Trump would have won CA-40 by ~12 pts in 2024",
+      "runoff_required": "no",
+      "runoff_date": "not found"
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "not found",
+      "twitter_x_followers": "not found",
+      "facebook_url": "not found",
+      "facebook_followers": "not found",
+      "instagram_handle": "not found",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "not found"
+    },
+    "verification": {
+      "discovery_source": "FEC.gov; Young Kim for Congress; Cook Political Report; Ballotpedia",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://youngkimforcongress.com/press-release/ca-40-news-young-kim-outraises-ken-calvert-in-latest-fundraising-report-ends-q4-with-over-2-million-cash-advantage/", "publisher": "Young Kim for Congress", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.fec.gov/data/candidate/H8CA39240/?cycle=2026", "publisher": "FEC.gov", "tier": "tier-1", "date_accessed": "2026-05-18"},
+        {"url": "https://www.cookpolitical.com/house/race/482016", "publisher": "Cook Political Report", "tier": "tier-1", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["trump_endorsement", "campaign_slogan", "campaign_announcement_date", "total_raised_this_cycle", "burn_rate", "self_funded_amount", "twitter_x_handle", "facebook_url", "instagram_handle", "youtube_channel", "tiktok_handle", "most_recent_ad_topic", "nra_pvf_rating"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Ken Calvert",
+    "office_sought": "U.S. House",
+    "state": "California",
+    "district": "CA-40",
+    "primary_date": "2026-06-02",
+    "incumbent": true,
+    "filing_status": "filed",
+    "biography": {
+      "age": "72 (born June 8, 1953)",
+      "occupation_before_politics": "Restaurant owner and real estate businessman (17 years); lifelong Riverside County resident",
+      "military_service": "no",
+      "military_branch_and_rank": "",
+      "education": "B.A. Economics, San Diego State University, 1975; attended Chaffey College",
+      "prior_elected_offices": ["U.S. House CA-37/CA-41 (1993-present)"],
+      "notable_career_highlights": "Longest-serving Republican in the California congressional delegation; serves on House Appropriations Committee; redistricted from CA-41 into CA-40 by Prop 50"
+    },
+    "campaign": {
+      "campaign_website": "https://calvert.house.gov",
+      "campaign_slogan": "not found",
+      "top_3_policy_priorities": [
+        "Fiscal conservatism and appropriations",
+        "National defense",
+        "Inland Southern California infrastructure and water"
+      ],
+      "campaign_announcement_date": "not found",
+      "campaign_announcement_source": "https://ballotpedia.org/Ken_Calvert"
+    },
+    "endorsements": {
+      "trump_endorsement": "unknown",
+      "trump_endorsement_date": "not found",
+      "nrsc_endorsed": "no",
+      "nrcc_endorsed": "unknown",
+      "governor_endorsed": "unknown",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": [],
+      "pac_support": []
+    },
+    "financials": {
+      "total_raised_this_cycle": "not found",
+      "cash_on_hand": "$3.7M (most recent quarterly report)",
+      "burn_rate": "not found",
+      "top_donor_type": "PAC",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "https://www.fec.gov/data/candidate/H2CA37023/"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-01-27",
+        "pollster": "Public Opinion Strategies (Young Kim campaign)",
+        "result": "Calvert trails Kim among likely primary voters; trails 39%-54% among voters favorable to both",
+        "source_url": "https://youngkimforcongress.com/press-release/ca-40-poll-shows-rep-young-kim-leading-calvert-overall-and-with-key-voting-blocs/"
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "9 others (top-two primary; major rivals: Young Kim (R), Joe Kerr (D), Esther Kim Varet (D))",
+      "seat_status": "incumbent-held",
+      "cook_political_report_rating": "Lean Republican",
+      "previous_election_margin": "Calvert won CA-41 by ~8 pts in 2024",
+      "runoff_required": "no",
+      "runoff_date": "not found"
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "not found",
+      "twitter_x_followers": "not found",
+      "facebook_url": "not found",
+      "facebook_followers": "not found",
+      "instagram_handle": "not found",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "not found"
+    },
+    "verification": {
+      "discovery_source": "FEC.gov; Ballotpedia; Washington Examiner; Cook Political Report",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://www.fec.gov/data/candidate/H2CA37023/", "publisher": "FEC.gov", "tier": "tier-1", "date_accessed": "2026-05-18"},
+        {"url": "https://ballotpedia.org/Ken_Calvert", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4482952/ken-calvert-young-kim-incumbent-2026-primary-fight/", "publisher": "Washington Examiner", "tier": "tier-1", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["trump_endorsement", "campaign_slogan", "campaign_announcement_date", "total_raised_this_cycle", "burn_rate", "self_funded_amount", "twitter_x_handle", "facebook_url", "instagram_handle", "youtube_channel", "tiktok_handle", "most_recent_ad_topic", "nra_pvf_rating"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Byron Donalds",
+    "office_sought": "Governor",
+    "state": "Florida",
+    "district": "Statewide",
+    "primary_date": "2026-08-18",
+    "incumbent": false,
+    "filing_status": "filed",
+    "biography": {
+      "age": "47 (born October 28, 1978)",
+      "occupation_before_politics": "Finance, insurance, and banking professional",
+      "military_service": "no",
+      "military_branch_and_rank": "",
+      "education": "B.S. Finance and Marketing, Florida State University, 2002; attended Florida A&M University",
+      "prior_elected_offices": ["Florida House of Representatives, District 80 (2016-2020)", "U.S. House FL-19 (2021-present)"],
+      "notable_career_highlights": "If elected would be first elected Black Republican governor in U.S. history; served on House Budget and Ways and Means Committees; 'Defending The Florida Dream' campaign tour"
+    },
+    "campaign": {
+      "campaign_website": "https://byrondonalds.com",
+      "campaign_slogan": "Defending The Florida Dream",
+      "top_3_policy_priorities": [
+        "Affordability (housing, insurance, transportation costs)",
+        "Restructuring or replacing FEMA",
+        "Continuing Florida's conservative governance model"
+      ],
+      "campaign_announcement_date": "2025-02-26",
+      "campaign_announcement_source": "https://www.wusf.org/politics-issues/2025-02-26/things-know-about-byron-donalds-filed-paperwork-run-governor"
+    },
+    "endorsements": {
+      "trump_endorsement": "yes",
+      "trump_endorsement_date": "not found",
+      "nrsc_endorsed": "no",
+      "nrcc_endorsed": "no",
+      "governor_endorsed": "unknown",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": ["AI titans-backed Super PAC ($5M pledge)"],
+      "pac_support": ["Super PAC backed by AI industry leaders ($5M pledge)"]
+    },
+    "financials": {
+      "total_raised_this_cycle": "$67M+ (through Q1 2026)",
+      "cash_on_hand": "not found",
+      "burn_rate": "not found",
+      "top_donor_type": "mixed",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "https://www.fec.gov/data/candidate/H2FL14186/"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-04-01",
+        "pollster": "Fabrizio, Lee & Associates",
+        "result": "Donalds 54% among likely GOP primary voters",
+        "source_url": "https://floridapolitics.com/archives/794475-poll-shows-likely-gop-voters-flocking-to-byron-donalds/"
+      },
+      {
+        "poll_date": "2026-03-01",
+        "pollster": "Emerson College Polling",
+        "result": "Donalds 46% in GOP primary; leads Jolly (D) 44%-39% in general",
+        "source_url": "https://emersoncollegepolling.com/florida-2026-poll-donalds-leads-gop-primary-for-governor-republicans-outpace-democrats-in-florida-elections/"
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "multiple (primary opponents include Renner, Collins, Fishback)",
+      "seat_status": "open",
+      "cook_political_report_rating": "Safe Republican",
+      "previous_election_margin": "DeSantis (R) won 2022 by ~19 points",
+      "runoff_required": "no",
+      "runoff_date": "not found"
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "@ByronDonalds",
+      "twitter_x_followers": "not found",
+      "facebook_url": "not found",
+      "facebook_followers": "not found",
+      "instagram_handle": "not found",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "Affordability; Florida Dream"
+    },
+    "verification": {
+      "discovery_source": "Florida Politics; Emerson College Polling; Wikipedia; Ballotpedia",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://floridapolitics.com/archives/788293-byron-donalds-posts-record-22m-quarter-to-kick-off-2026-governors-race/", "publisher": "Florida Politics", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://emersoncollegepolling.com/florida-2026-poll-donalds-leads-gop-primary-for-governor-republicans-outpace-democrats-in-florida-elections/", "publisher": "Emerson College Polling", "tier": "tier-1", "date_accessed": "2026-05-18"},
+        {"url": "https://en.wikipedia.org/wiki/Byron_Donalds", "publisher": "Wikipedia", "tier": "tier-2", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["trump_endorsement_date", "cash_on_hand", "burn_rate", "self_funded_amount", "twitter_x_followers", "facebook_url", "instagram_handle", "youtube_channel", "tiktok_handle", "nra_pvf_rating"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Alan Wilson",
+    "office_sought": "Governor",
+    "state": "South Carolina",
+    "district": "Statewide",
+    "primary_date": "2026-06-09",
+    "incumbent": false,
+    "filing_status": "filed",
+    "biography": {
+      "age": "52 (born July 16, 1973)",
+      "occupation_before_politics": "Attorney; South Carolina Attorney General (2011-present)",
+      "military_service": "yes",
+      "military_branch_and_rank": "South Carolina Army National Guard, Colonel; deployed to Iraq; earned Combat Action Badge",
+      "education": "B.A., Francis Marion University; J.D., University of South Carolina School of Law",
+      "prior_elected_offices": ["SC Attorney General (2011-present, 4 terms)"],
+      "notable_career_highlights": "Nearly 30 years in SC Army National Guard; deployed to Iraq under enemy fire; longest-serving AG in SC history; led multi-state coalition against Biden policies"
+    },
+    "campaign": {
+      "campaign_website": "https://wilsonforsc.com",
+      "campaign_slogan": "not found",
+      "top_3_policy_priorities": [
+        "Public safety and law and order",
+        "Affordability and lowering costs for families",
+        "Restoring accountability in government"
+      ],
+      "campaign_announcement_date": "2025-06-23",
+      "campaign_announcement_source": "https://www.postandcourier.com/politics/alan-wilson-announces-governor-south-carolina-republican/article_aa3496b4-e9d5-4a79-9421-94970ec67081.html"
+    },
+    "endorsements": {
+      "trump_endorsement": "no",
+      "trump_endorsement_date": "not found",
+      "nrsc_endorsed": "no",
+      "nrcc_endorsed": "no",
+      "governor_endorsed": "unknown",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": [],
+      "pac_support": []
+    },
+    "financials": {
+      "total_raised_this_cycle": "$2.9M+ (including $1.044M in Q1 2026)",
+      "cash_on_hand": "$1,804,896 (end Q1 2026)",
+      "burn_rate": "$572,340 spent in Q1 2026",
+      "top_donor_type": "mixed",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "not found"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-04-28",
+        "pollster": "SCGOP internal (post-debate)",
+        "result": "Wilson leads with 35.1%; Evette 20.1%; Norman 18.8%; Mace 14.2%",
+        "source_url": "https://www.foxcarolina.com/2026/04/28/ag-alan-wilson-leads-scgops-first-post-debate-gubernatorial-poll/"
+      },
+      {
+        "poll_date": "2026-02-01",
+        "pollster": "Starboard Communications",
+        "result": "Wilson 20%; Norman 14%; Mace 13%; Evette 12%; Reddy 10%",
+        "source_url": "https://www.fitsnews.com/2026/02/09/new-poll-shows-alan-wilson-leading-fragmented-s-c-governors-race/"
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "4 major (Nancy Mace, Pamela Evette, Ralph Norman, Rom Reddy)",
+      "seat_status": "open",
+      "cook_political_report_rating": "not found",
+      "previous_election_margin": "McMaster (R) won 2022 uncontested in primary",
+      "runoff_required": "yes",
+      "runoff_date": "2026-06-23"
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "@AGAlanWilson",
+      "twitter_x_followers": "not found",
+      "facebook_url": "https://www.facebook.com/WilsonforSC/",
+      "facebook_followers": "not found",
+      "instagram_handle": "@alanwilsonsc",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "Public safety; affordability"
+    },
+    "verification": {
+      "discovery_source": "Post and Courier; FITSNews; Fox Carolina; Ballotpedia",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://wilsonforsc.com/about-me/", "publisher": "Campaign website", "tier": "tier-1", "date_accessed": "2026-05-18"},
+        {"url": "https://www.foxcarolina.com/2026/04/28/ag-alan-wilson-leads-scgops-first-post-debate-gubernatorial-poll/", "publisher": "Fox Carolina", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://ballotpedia.org/Alan_Wilson_(South_Carolina)", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["campaign_slogan", "trump_endorsement", "cook_political_report_rating", "twitter_x_followers", "facebook_followers", "instagram_followers", "youtube_channel", "tiktok_handle", "nra_pvf_rating", "self_funded_amount", "fec_filing_url"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Nancy Mace",
+    "office_sought": "Governor",
+    "state": "South Carolina",
+    "district": "Statewide",
+    "primary_date": "2026-06-09",
+    "incumbent": false,
+    "filing_status": "filed",
+    "biography": {
+      "age": "48 (born December 4, 1977)",
+      "occupation_before_politics": "Businesswoman; author; political consultant",
+      "military_service": "no",
+      "military_branch_and_rank": "",
+      "education": "B.S. Business Administration (magna cum laude), The Citadel, 1999 (first woman to graduate from Corps of Cadets); M.S. Journalism and Mass Communication, University of Georgia, 2004",
+      "prior_elected_offices": ["SC General Assembly (2018-2020)", "U.S. House SC-1 (2021-present)"],
+      "notable_career_highlights": "First woman to graduate from The Citadel's Corps of Cadets; daughter of Army Brigadier General; outspoken on transgender issues; pro-choice Republican"
+    },
+    "campaign": {
+      "campaign_website": "https://nancymace.org",
+      "campaign_slogan": "not found",
+      "top_3_policy_priorities": [
+        "Eliminating South Carolina income tax ('Five Years to Zero' plan)",
+        "Transgender issues and women's sports",
+        "Bold conservative reforms and government accountability"
+      ],
+      "campaign_announcement_date": "2025-08-04",
+      "campaign_announcement_source": "https://scdailygazette.com/2025/08/04/rep-nancy-mace-officially-enters-sc-governors-race/"
+    },
+    "endorsements": {
+      "trump_endorsement": "unknown",
+      "trump_endorsement_date": "not found",
+      "nrsc_endorsed": "no",
+      "nrcc_endorsed": "no",
+      "governor_endorsed": "unknown",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": [],
+      "pac_support": []
+    },
+    "financials": {
+      "total_raised_this_cycle": "$1.1M+ (first 8 weeks from 19,000+ donors)",
+      "cash_on_hand": "not found (trails Norman, Wilson, and Evette in available resources per Q reports)",
+      "burn_rate": "not found",
+      "top_donor_type": "small dollar",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "https://www.fec.gov/data/candidate/H0SC01202/"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-03-11",
+        "pollster": "Stratus Intelligence",
+        "result": "Mace 24% (leads GOP primary field by 6 points)",
+        "source_url": "https://www.postandcourier.com/politics/poll-mace-high-name-id-early-sc-gov-race/article_c0776cba-fe88-11ef-b51a-ef6c88868167.html"
+      },
+      {
+        "poll_date": "2026-04-28",
+        "pollster": "SCGOP internal (post-debate)",
+        "result": "Mace 14.2% (4th place); Wilson leads at 35.1%",
+        "source_url": "https://www.foxcarolina.com/2026/04/28/ag-alan-wilson-leads-scgops-first-post-debate-gubernatorial-poll/"
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "4 major (Alan Wilson, Pamela Evette, Ralph Norman, Rom Reddy)",
+      "seat_status": "open",
+      "cook_political_report_rating": "not found",
+      "previous_election_margin": "McMaster (R) won 2022 by large margin",
+      "runoff_required": "yes",
+      "runoff_date": "2026-06-23"
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "@NancyMace",
+      "twitter_x_followers": "not found",
+      "facebook_url": "not found",
+      "facebook_followers": "not found",
+      "instagram_handle": "not found",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "Income tax elimination; government accountability"
+    },
+    "verification": {
+      "discovery_source": "SC Daily Gazette; Post and Courier; FITSNews; Ballotpedia",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://scdailygazette.com/2025/08/04/rep-nancy-mace-officially-enters-sc-governors-race/", "publisher": "SC Daily Gazette", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://ballotpedia.org/Nancy_Mace", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://en.wikipedia.org/wiki/Nancy_Mace", "publisher": "Wikipedia", "tier": "tier-2", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["campaign_slogan", "trump_endorsement", "cash_on_hand", "burn_rate", "self_funded_amount", "cook_political_report_rating", "twitter_x_followers", "facebook_url", "instagram_handle", "youtube_channel", "tiktok_handle", "nra_pvf_rating"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Burt Jones",
+    "office_sought": "Governor",
+    "state": "Georgia",
+    "district": "Statewide",
+    "primary_date": "2026-05-19",
+    "incumbent": false,
+    "filing_status": "filed",
+    "biography": {
+      "age": "46 (born April 25, 1979)",
+      "occupation_before_politics": "Oil executive; heir to Jones Petroleum Company; founder of JP Capital & Insurance Inc. (2004)",
+      "military_service": "no",
+      "military_branch_and_rank": "",
+      "education": "Woodward Academy, 1998; B.A. History, University of Georgia, 2002 (co-captain, 2002 SEC Championship football team)",
+      "prior_elected_offices": ["Georgia State Senate, District 25 (2013-2023)", "Lieutenant Governor of Georgia (2023-present)"],
+      "notable_career_highlights": "13th Lieutenant Governor of Georgia; 6th-generation Georgian from Jackson, GA; presided over Georgia Senate; Trump-endorsed frontrunner in governor's race; race likely heading to June 16 runoff vs. Rick Jackson"
+    },
+    "campaign": {
+      "campaign_website": "https://burtjonesforga.com",
+      "campaign_slogan": "not found",
+      "top_3_policy_priorities": [
+        "Economic development and job growth",
+        "Continuing conservative governance in Georgia",
+        "Property tax relief and housing affordability"
+      ],
+      "campaign_announcement_date": "2025-07-08",
+      "campaign_announcement_source": "https://www.usnews.com/news/us/articles/2025-07-08/georgia-republican-burt-jones-finally-enters-the-2026-governors-race"
+    },
+    "endorsements": {
+      "trump_endorsement": "yes",
+      "trump_endorsement_date": "not found",
+      "nrsc_endorsed": "no",
+      "nrcc_endorsed": "no",
+      "governor_endorsed": "unknown",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": [],
+      "pac_support": []
+    },
+    "financials": {
+      "total_raised_this_cycle": "~$26M+ (campaign and leadership committee combined)",
+      "cash_on_hand": "$14.3M (leadership committee, including $10M self-loan)",
+      "burn_rate": "not found",
+      "top_donor_type": "self-funded",
+      "self_funded_amount": "$10M (personal loan to campaign)",
+      "fec_filing_url": "not found"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-05-01",
+        "pollster": "InsiderAdvantage",
+        "result": "Jackson 31%, Jones 27% (among likely GOP primary voters)",
+        "source_url": "https://www.fox5atlanta.com/news/trump-endorses-burt-jones-georgias-2026-governor-race"
+      },
+      {
+        "poll_date": "2026-04-25",
+        "pollster": "Atlanta Journal-Constitution",
+        "result": "Jones and Jackson separated by 2.4 points (within margin of error)",
+        "source_url": "https://www.ajc.com/politics/2026/04/burt-jones-a-look-at-the-ajcs-coverage/"
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "major rival Rick Jackson (self-funded $80M+); also Chris Carr, Brad Raffensperger",
+      "seat_status": "open",
+      "cook_political_report_rating": "not found",
+      "previous_election_margin": "Kemp (R) won 2022 by ~8 points",
+      "runoff_required": "yes",
+      "runoff_date": "2026-06-16"
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "@burtjonesforga",
+      "twitter_x_followers": "not found",
+      "facebook_url": "https://www.facebook.com/burtjonesforga/",
+      "facebook_followers": "not found",
+      "instagram_handle": "not found",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "Economic experience; conservative governance"
+    },
+    "verification": {
+      "discovery_source": "Georgia Recorder; Fox 5 Atlanta; GPB; US News; Ballotpedia",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://georgiarecorder.com/briefs/trump-endorses-early-in-georgias-2026-race-for-governor-backing-an-early-supporter/", "publisher": "Georgia Recorder", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.usnews.com/news/us/articles/2025-07-08/georgia-republican-burt-jones-finally-enters-the-2026-governors-race", "publisher": "US News", "tier": "tier-1", "date_accessed": "2026-05-18"},
+        {"url": "https://ballotpedia.org/Burt_Jones", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["trump_endorsement_date", "campaign_slogan", "burn_rate", "cook_political_report_rating", "twitter_x_followers", "facebook_followers", "instagram_handle", "youtube_channel", "tiktok_handle", "nra_pvf_rating", "fec_filing_url"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Barbara Kirkmeyer",
+    "office_sought": "Governor",
+    "state": "Colorado",
+    "district": "Statewide",
+    "primary_date": "2026-06-30",
+    "incumbent": false,
+    "filing_status": "filed",
+    "biography": {
+      "age": "67 (born September 15, 1958)",
+      "occupation_before_politics": "Dairy farmer; small business co-owner (15 years); Colorado state cabinet official (Gov. Owens era)",
+      "military_service": "unknown",
+      "military_branch_and_rank": "not found",
+      "education": "B.S. Physical Education, University of Colorado Boulder, 1980",
+      "prior_elected_offices": ["Weld County Commissioner (19 years)", "Colorado State Senate, District 23 (current)"],
+      "notable_career_highlights": "4th-generation Coloradan; serves on powerful Joint Budget Committee; executive director of CO Dept. of Local Affairs under Gov. Owens; staunchly anti-abortion, pro-gun, pro-energy"
+    },
+    "campaign": {
+      "campaign_website": "not found",
+      "campaign_slogan": "not found",
+      "top_3_policy_priorities": [
+        "Lowering cost of living and defending TABOR (Taxpayer's Bill of Rights)",
+        "Improving roads and infrastructure",
+        "Public safety and supporting oil and gas industry"
+      ],
+      "campaign_announcement_date": "2025-09-09",
+      "campaign_announcement_source": "https://coloradonewsline.com/2025/09/09/barbara-kirkmeyer-2026-colorado-governor/"
+    },
+    "endorsements": {
+      "trump_endorsement": "unknown",
+      "trump_endorsement_date": "not found",
+      "nrsc_endorsed": "no",
+      "nrcc_endorsed": "no",
+      "governor_endorsed": "unknown",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": ["Colorado conservative establishment backing"],
+      "pac_support": []
+    },
+    "financials": {
+      "total_raised_this_cycle": "~$500,000 (since launch through early May 2026)",
+      "cash_on_hand": "~$93,000 (most recent report)",
+      "burn_rate": "not found",
+      "top_donor_type": "small dollar",
+      "self_funded_amount": "not found",
+      "fec_filing_url": "https://www.fec.gov/data/candidate/H2CO08079/"
+    },
+    "polling": [],
+    "race_context": {
+      "number_of_primary_opponents": "1 major (Victor Bottoms; multiple others in crowded field)",
+      "seat_status": "open",
+      "cook_political_report_rating": "not found",
+      "previous_election_margin": "Polis (D) won 2022 by ~19 points",
+      "runoff_required": "no",
+      "runoff_date": "not found"
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "@SenKirkmeyer",
+      "twitter_x_followers": "not found",
+      "facebook_url": "not found",
+      "facebook_followers": "not found",
+      "instagram_handle": "not found",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "Cost of living; TABOR defense"
+    },
+    "verification": {
+      "discovery_source": "Colorado Newsline; Colorado Sun; Ballotpedia; Colorado Pols",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://coloradonewsline.com/2025/09/09/barbara-kirkmeyer-2026-colorado-governor/", "publisher": "Colorado Newsline", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://ballotpedia.org/Barbara_Kirkmeyer", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"},
+        {"url": "https://www.coloradopols.com/diary/217678/fundraising-for-governor-shows-huge-gap-for-gops-kirkmeyer", "publisher": "Colorado Pols", "tier": "tier-2", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["military_service", "campaign_website", "campaign_slogan", "trump_endorsement", "cook_political_report_rating", "polling", "burn_rate", "self_funded_amount", "twitter_x_followers", "facebook_url", "instagram_handle", "youtube_channel", "tiktok_handle", "nra_pvf_rating"],
+      "stale_source_flag": "no"
+    }
+  },
+  {
+    "candidate_name": "Mike Minogue",
+    "office_sought": "Governor",
+    "state": "Massachusetts",
+    "district": "Statewide",
+    "primary_date": "2026-09-01",
+    "incumbent": false,
+    "filing_status": "filed",
+    "biography": {
+      "age": "59 (born ~1966/1967, raised in New Jersey)",
+      "occupation_before_politics": "CEO of Abiomed Inc. (cardiac device company, sold to Johnson & Johnson 2022); Army Ranger",
+      "military_service": "yes",
+      "military_branch_and_rank": "U.S. Army, Army Ranger; attended West Point (graduated 1989, engineering degree)",
+      "education": "B.S. Engineering, U.S. Military Academy at West Point, 1989",
+      "prior_elected_offices": [],
+      "notable_career_highlights": "Built Abiomed from startup to global cardiac care standard; sold company to J&J for ~$16.6B (2022); massive Republican donor; won MA GOP convention with 70% of delegates (April 2026); political newcomer"
+    },
+    "campaign": {
+      "campaign_website": "https://minogueforma.com",
+      "campaign_slogan": "A New Kind of Governor",
+      "top_3_policy_priorities": [
+        "Cutting taxes and state spending; auditing legislature and budget",
+        "Energy reform (natural gas, nuclear; repeal net zero mandates; cut utility fees)",
+        "Economic growth by retaining/recruiting businesses; ending illegal immigrant shelter entitlements"
+      ],
+      "campaign_announcement_date": "2025-10-01",
+      "campaign_announcement_source": "https://www.wwlp.com/news/state-politics/mike-minogue-joins-governor-race/"
+    },
+    "endorsements": {
+      "trump_endorsement": "unknown",
+      "trump_endorsement_date": "not found",
+      "nrsc_endorsed": "no",
+      "nrcc_endorsed": "no",
+      "governor_endorsed": "unknown",
+      "club_for_growth": "unknown",
+      "heritage_action": "unknown",
+      "nra_pvf_rating": "not found",
+      "sba_pro_life": "unknown",
+      "other_notable_endorsements": ["Massachusetts Republican Party (official endorsement, April 2026, 70% of delegates)"],
+      "pac_support": []
+    },
+    "financials": {
+      "total_raised_this_cycle": "$13.5M+ (primarily self-funded)",
+      "cash_on_hand": "$10M+ (as of May 2026)",
+      "burn_rate": "not found",
+      "top_donor_type": "self-funded",
+      "self_funded_amount": "$13.5M",
+      "fec_filing_url": "not found"
+    },
+    "polling": [
+      {
+        "poll_date": "2026-03-03",
+        "pollster": "Minogue campaign (internal)",
+        "result": "Minogue 29% among Republican primary voters",
+        "source_url": "https://www.wbur.org/news/2026/03/03/massachusetts-governor-republican-primary-polling"
+      }
+    ],
+    "race_context": {
+      "number_of_primary_opponents": "1 remaining (Brian Shortsleeve; Mike Kennealy dropped after convention)",
+      "seat_status": "open",
+      "cook_political_report_rating": "not found",
+      "previous_election_margin": "Healey (D) won 2022 by ~29 points",
+      "runoff_required": "no",
+      "runoff_date": "not found"
+    },
+    "digital_footprint": {
+      "twitter_x_handle": "@MikeMinogueABMD",
+      "twitter_x_followers": "not found",
+      "facebook_url": "https://www.facebook.com/michael.minogue.754/",
+      "facebook_followers": "not found",
+      "instagram_handle": "not found",
+      "instagram_followers": "not found",
+      "youtube_channel": "not found",
+      "youtube_subscribers": "not found",
+      "tiktok_handle": "not found",
+      "tiktok_followers": "not found",
+      "most_recent_ad_topic": "Tax cuts; energy reform; illegal immigration"
+    },
+    "verification": {
+      "discovery_source": "WBUR; GBH; Boston Globe; Ballotpedia",
+      "verification_status": "verified",
+      "verification_sources": [
+        {"url": "https://www.wbur.org/news/2026/04/25/minogue-gop-endorsement-massachusetts-governor", "publisher": "WBUR", "tier": "tier-1", "date_accessed": "2026-05-18"},
+        {"url": "https://www.wgbh.org/news/politics/2026-04-26/mike-minogue-wins-mass-gop-endorsement-for-governor-in-a-landslide", "publisher": "GBH", "tier": "tier-1", "date_accessed": "2026-05-18"},
+        {"url": "https://ballotpedia.org/Michael_Minogue", "publisher": "Ballotpedia", "tier": "tier-2", "date_accessed": "2026-05-18"}
+      ],
+      "fields_not_found": ["trump_endorsement", "burn_rate", "cook_political_report_rating", "twitter_x_followers", "instagram_handle", "youtube_channel", "tiktok_handle", "nra_pvf_rating", "fec_filing_url"],
+      "stale_source_flag": "no"
+    }
+  }
+]
